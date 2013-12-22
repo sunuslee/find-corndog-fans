@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5782
+5815
 1000
+{
+	"_id" : ObjectId("52b6fa520de7deec5cc0f36d"),
+	"text" : "一米七零芳龄24单身广州男猥琐撸过，有木有同猥琐的妹纸。",
+	"cid" : NumberLong("3658438557067037"),
+	"uid" : "1779133522",
+	"uname" : "囬車贱"
+}
 {
 	"_id" : ObjectId("52b6f7ed0de7deec5cc0f324"),
 	"text" : "来一发～广州，前学霸，求打算去美帝的软妹一起学英语～",
