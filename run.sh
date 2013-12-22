@@ -2,4 +2,4 @@
 
 python wbs.py &>/dev/null
 
-sed s/KEYWORD/$1/ showtj.js|mongo
+sed s/KEYWORD/$1/ query.js|mongo
