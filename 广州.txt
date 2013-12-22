@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5696
+5712
 1000
+{
+	"_id" : ObjectId("52b6f43c0de7deec5cc0f31b"),
+	"text" : "再来一发，求程序扫出关键词~广州单身狗摄影狗，21，来妹子过圣诞啊",
+	"cid" : NumberLong("3658432080689692"),
+	"uid" : "1744475540",
+	"uname" : "半熟hizaki"
+}
 {
 	"_id" : ObjectId("52b6f3260de7deec5cc0f2de"),
 	"text" : "回复@栗子091031:抓到一个！~这评论找个广州的眼都花…[晕]",
