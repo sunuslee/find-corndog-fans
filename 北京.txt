@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4865
+5463
 1000
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f053"),
+	"text" : "郑州。老家北京。89年。做游戏美工行业。想找个安稳踏实愿意一起玩游戏看动漫做饭桌游的宅吃货～微信annatian1987",
+	"cid" : NumberLong("3658406579315457"),
+	"uid" : "3222853784",
+	"uname" : "从摇滚到二人转"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f055"),
+	"text" : "郑州。老家北京。89年。做游戏美工行业。想找个安稳踏实愿意一起玩游戏看动漫做饭桌游的宅吃货～",
+	"cid" : NumberLong("3658406424404814"),
+	"uid" : "3222853784",
+	"uname" : "从摇滚到二人转"
+}
+{
+	"_id" : ObjectId("52b6e3480de7deec5cc0f0ce"),
+	"text" : "北京 23岁 IT媒体男一枚！",
+	"cid" : NumberLong("3658397855262227"),
+	"uid" : "1468996702",
+	"uname" : "真替你们捉急"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f19f"),
+	"text" : "北京，23，求一同城善良菇凉，微信号：wangwei9-9",
+	"cid" : NumberLong("3658387361465850"),
+	"uid" : "1896636955",
+	"uname" : "少年流苏"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f1a2"),
+	"text" : "汉子 北京 心地善良没车没房[可怜]",
+	"cid" : NumberLong("3658387323477517"),
+	"uid" : "1686204344",
+	"uname" : "遗忘的卡西姆"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f1b1"),
+	"text" : "北京 上海 杭州 广州 天津 的分类信息汇总: http://t.cn/8kjBzrs 造福大家~ 北京:http://t.cn/8kjDuDj 天津: http://t.cn/8kjDuDY @性感玉米",
+	"cid" : NumberLong("3658386921200601"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b6c7f70de7deec5cc0ee86"),
 	"text" : "北京 男 跪求妹子勾搭啊！！！我可以把我家妞妞借你玩！！",

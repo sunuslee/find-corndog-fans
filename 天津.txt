@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4865
+5463
 1000
+{
+	"_id" : ObjectId("52b6e3460de7deec5cc0efd7"),
+	"text" : "回复@有顶猫家族:呃.. 我只是在天津读书而已..",
+	"cid" : NumberLong("3658413890687757"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f038"),
+	"text" : "身在天津的云南汉子求一软妹纸聊天!rua4319",
+	"cid" : NumberLong("3658408059772356"),
+	"uid" : "1165468137",
+	"uname" : "有顶猫家族"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f040"),
+	"text" : "回复@sunusLee:我大天津的汉子果然牛逼!",
+	"cid" : NumberLong("3658407724199005"),
+	"uid" : "1165468137",
+	"uname" : "有顶猫家族"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f046"),
+	"text" : "回复@深在那里的猫酱:找到天津软妹一枚!",
+	"cid" : NumberLong("3658407300799119"),
+	"uid" : "1165468137",
+	"uname" : "有顶猫家族"
+}
+{
+	"_id" : ObjectId("52b6e3480de7deec5cc0f0a2"),
+	"text" : "回复@有顶猫家族: @烤鸭求分手 她也在天津，云南妹子。不用谢我是红领巾",
+	"cid" : NumberLong("3658402234081151"),
+	"uid" : "1645202821",
+	"uname" : "该昵称太长还未被占用"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f1b1"),
+	"text" : "北京 上海 杭州 广州 天津 的分类信息汇总: http://t.cn/8kjBzrs 造福大家~ 北京:http://t.cn/8kjDuDj 天津: http://t.cn/8kjDuDY @性感玉米",
+	"cid" : NumberLong("3658386921200601"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b6c7f90de7deec5cc0efaa"),
 	"text" : "天津的妹纸有吗 我大三[泪][泪][泪]",

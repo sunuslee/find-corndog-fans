@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4865
+5463
 1000
+{
+	"_id" : ObjectId("52b6e5b30de7deec5cc0f1fd"),
+	"text" : "胖纸 24 杭州汉子。lin_sky1990 工作为卖套子内衣[害羞][害羞]",
+	"cid" : NumberLong("3658416587422146"),
+	"uid" : "1241767070",
+	"uname" : "林小白小白"
+}
+{
+	"_id" : ObjectId("52b6e5b30de7deec5cc0f210"),
+	"text" : "杭州的好好男青年快去勾搭@樱花草cll 26岁，还没怎么被网络玩坏的妹纸#朋友就是用来出卖的#",
+	"cid" : NumberLong("3658415576809777"),
+	"uid" : "1678383594",
+	"uname" : "子尤如是说"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f03f"),
+	"text" : "杭州汉子 21 热爱二次元 微信号forestvaen",
+	"cid" : NumberLong("3658407761951017"),
+	"uid" : "1868181385",
+	"uname" : "三块木头Van"
+}
+{
+	"_id" : ObjectId("52b6e3480de7deec5cc0f0a0"),
+	"text" : "杭州 94 微信shi814494 我就是来来试一试[可爱]",
+	"cid" : NumberLong("3658402259709509"),
+	"uid" : "1785908697",
+	"uname" : "兔发树机能"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f1b1"),
+	"text" : "北京 上海 杭州 广州 天津 的分类信息汇总: http://t.cn/8kjBzrs 造福大家~ 北京:http://t.cn/8kjDuDj 天津: http://t.cn/8kjDuDY @性感玉米",
+	"cid" : NumberLong("3658386921200601"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b6c7f70de7deec5cc0eedc"),
 	"text" : "93  杭州  大学僧/狗",

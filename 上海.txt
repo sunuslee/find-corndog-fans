@@ -1,8 +1,92 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4865
+5463
 1000
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f00e"),
+	"text" : "回复@Bella_雋大爱汪星人:我想回上海啊",
+	"cid" : NumberLong("3658410937793121"),
+	"uid" : "1770582970",
+	"uname" : "嘻嘻一定会看到希望"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f00f"),
+	"text" : "上海嘉定的，20，男，在奉贤商学院读日语，目前大三，有妹子勾搭么。。",
+	"cid" : NumberLong("3658410731822807"),
+	"uid" : "1931992411",
+	"uname" : "吴馆长"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f041"),
+	"text" : "回复@偶尔炸毛不定期抽风的小芙颂:活捉上海妹子一枚 ，求勾搭~",
+	"cid" : NumberLong("3658407489559305"),
+	"uid" : "2138416597",
+	"uname" : "Mr_Q同学资深宅"
+}
+{
+	"_id" : ObjectId("52b6e3480de7deec5cc0f0a6"),
+	"text" : "86年生，男，上海，法律工作者，伪文青。其他爱好见本人微博。",
+	"cid" : NumberLong("3658401651619240"),
+	"uid" : "2129635660",
+	"uname" : "Gringoire_白夜"
+}
+{
+	"_id" : ObjectId("52b6e3480de7deec5cc0f0c7"),
+	"text" : "回复@仲间BUMP君:活捉上海妹子一枚，求勾搭~",
+	"cid" : NumberLong("3658398664562726"),
+	"uid" : "2138416597",
+	"uname" : "Mr_Q同学资深宅"
+}
+{
+	"_id" : ObjectId("52b6e3480de7deec5cc0f0f8"),
+	"text" : "回复@Mr_Q同学资深宅:你不喜欢上海呀",
+	"cid" : NumberLong("3658395762985746"),
+	"uid" : "1987763535",
+	"uname" : "Bella_雋大爱汪星人"
+}
+{
+	"_id" : ObjectId("52b6e3490de7deec5cc0f104"),
+	"text" : "回复@钮祜禄衎_Ecko:求勾搭，活捉上海妹子~",
+	"cid" : NumberLong("3658395095444715"),
+	"uid" : "2138416597",
+	"uname" : "Mr_Q同学资深宅"
+}
+{
+	"_id" : ObjectId("52b6e3490de7deec5cc0f108"),
+	"text" : "回复@Bella_雋大爱汪星人:活捉上海妹子，求勾搭~",
+	"cid" : NumberLong("3658395032261858"),
+	"uid" : "2138416597",
+	"uname" : "Mr_Q同学资深宅"
+}
+{
+	"_id" : ObjectId("52b6e3490de7deec5cc0f12e"),
+	"text" : "回复@Shoegazing自赏:妹子 滚回上海前 我们平安夜去楚河汉街万达看场电影可好？",
+	"cid" : NumberLong("3658392718530249"),
+	"uid" : "2058350464",
+	"uname" : "hi镜子"
+}
+{
+	"_id" : ObjectId("52b6e3490de7deec5cc0f14c"),
+	"text" : "回复@Shoegazing自赏:活捉回上海妹子一枚~求勾搭",
+	"cid" : NumberLong("3658391362729218"),
+	"uid" : "2138416597",
+	"uname" : "Mr_Q同学资深宅"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f185"),
+	"text" : "[兔子] 妹子 上海 17",
+	"cid" : NumberLong("3658388669498386"),
+	"uid" : "3265970775",
+	"uname" : "一坨搬运工"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f1b1"),
+	"text" : "北京 上海 杭州 广州 天津 的分类信息汇总: http://t.cn/8kjBzrs 造福大家~ 北京:http://t.cn/8kjDuDj 天津: http://t.cn/8kjDuDY @性感玉米",
+	"cid" : NumberLong("3658386921200601"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b6c7f80de7deec5cc0ef3e"),
 	"text" : "粽子辣里来凑热闹嗒～꒰๑•ૅૄ•๑꒱坐标上海，大三妹子一枚，微信sukiehun",

@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4865
+5463
 1000
+{
+	"_id" : ObjectId("52b6e5b30de7deec5cc0f1f7"),
+	"text" : "来人呐，求陪同本大龄女子圣诞夜去广州看方大同演出[泪]",
+	"cid" : NumberLong("3658416758869917"),
+	"uid" : "1761145234",
+	"uname" : "还是边渡"
+}
+{
+	"_id" : ObjectId("52b6e3460de7deec5cc0eff7"),
+	"text" : "广州读书妹子 22 苦逼研究生 求勾搭[害羞][害羞]",
+	"cid" : NumberLong("3658412099849808"),
+	"uid" : "1854526365",
+	"uname" : "这个账号有点怂"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f035"),
+	"text" : "回复@请叫我红领巾呀:红领巾你在广州哪里呢？",
+	"cid" : NumberLong("3658408157205142"),
+	"uid" : "1757046007",
+	"uname" : "我真的叫红领巾"
+}
+{
+	"_id" : ObjectId("52b6e3480de7deec5cc0f09b"),
+	"text" : "回复@凌晨呀:终于见到广州妹子了！！！[好喜欢]",
+	"cid" : NumberLong("3658402595600441"),
+	"uid" : "1892865260",
+	"uname" : "freegol"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f1b1"),
+	"text" : "北京 上海 杭州 广州 天津 的分类信息汇总: http://t.cn/8kjBzrs 造福大家~ 北京:http://t.cn/8kjDuDj 天津: http://t.cn/8kjDuDY @性感玉米",
+	"cid" : NumberLong("3658386921200601"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b6c7f70de7deec5cc0eeb4"),
 	"text" : "叼，补充u广州的",

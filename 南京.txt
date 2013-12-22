@@ -1,0 +1,370 @@
+MongoDB shell version: 2.4.8
+connecting to: test
+switched to db wbdb
+5463
+1000
+{
+	"_id" : ObjectId("52b6e5b30de7deec5cc0f222"),
+	"text" : "回复@lansing-凡:不那么靠谱的男青年 坐标南京 苦逼工科研究僧在读",
+	"cid" : NumberLong("3658414670807973"),
+	"uid" : "1750260621",
+	"uname" : "二哥濮"
+}
+{
+	"_id" : ObjectId("52b6e3460de7deec5cc0efde"),
+	"text" : "南京 23 研究僧 汉子",
+	"cid" : NumberLong("3658413508892100"),
+	"uid" : "1750260621",
+	"uname" : "二哥濮"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f00d"),
+	"text" : "回复@大尹子女侠独闯周庄镇:我家在南京唉！！",
+	"cid" : NumberLong("3658410980009192"),
+	"uid" : "1734122983",
+	"uname" : "寻找陌小柒"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f036"),
+	"text" : "回复@keren0126:南京，23的天蝎座汉子……",
+	"cid" : NumberLong("3658408098212562"),
+	"uid" : "1750260621",
+	"uname" : "二哥濮"
+}
+{
+	"_id" : ObjectId("52b6e3470de7deec5cc0f04f"),
+	"text" : "男 23 南京",
+	"cid" : NumberLong("3658406865109107"),
+	"uid" : "1750260621",
+	"uname" : "二哥濮"
+}
+{
+	"_id" : ObjectId("52b6e3490de7deec5cc0f116"),
+	"text" : "南京。南林大。求个妹纸过圣诞么[泪]",
+	"cid" : NumberLong("3658394404051950"),
+	"uid" : "1660809117",
+	"uname" : "貳大爺不贰"
+}
+{
+	"_id" : ObjectId("52b6e3490de7deec5cc0f13f"),
+	"text" : "回复@sunusLee:求南京啊",
+	"cid" : NumberLong("3658391748373414"),
+	"uid" : "1820704764",
+	"uname" : "黄峰Bee"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f195"),
+	"text" : "@章鱼丸_糖分同好营员 南京，19岁的狮子座菇凉~~",
+	"cid" : NumberLong("3658387760036097"),
+	"uid" : "1588293960",
+	"uname" : "keren0126"
+}
+{
+	"_id" : ObjectId("52b6c7f70de7deec5cc0ee82"),
+	"text" : "南京20岁汉子，求话唠妹子！wfzclca微信～",
+	"cid" : NumberLong("3658383842321006"),
+	"uid" : "2290378557",
+	"uname" : "摄影9课-鹌鹑祈祷中"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0eef9"),
+	"text" : "87年，女，南京。",
+	"cid" : NumberLong("3658380315023980"),
+	"uid" : "1743506603",
+	"uname" : "我是喵喵啊"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0ef12"),
+	"text" : "坐标南京。建筑学大五学长一枚，求妹子！求勾搭！",
+	"cid" : NumberLong("3658379580598589"),
+	"uid" : "1644648210",
+	"uname" : "变小的奥利奥"
+}
+{
+	"_id" : ObjectId("52b6b3e80de7deec5cc0eda9"),
+	"text" : "回复@GooGooGooGoodGirl:在苏州的南京人啦，目前在实习",
+	"cid" : NumberLong("3658352829218924"),
+	"uid" : "1734122983",
+	"uname" : "寻找陌小柒"
+}
+{
+	"_id" : ObjectId("52b6a8b80de7deec5cc0ecdb"),
+	"text" : "回复@醉问客家夜: @冷静的喵喵 南京的......",
+	"cid" : NumberLong("3658351139003478"),
+	"uid" : "2462920217",
+	"uname" : "少年卿言"
+}
+{
+	"_id" : ObjectId("52b6a8380de7deec5cc0ecc2"),
+	"text" : "回复@林露梦不是林梦露:帮我找找呀 江苏的 目前在南京工作",
+	"cid" : NumberLong("3658351005815964"),
+	"uid" : "2807297154",
+	"uname" : "醉问客家夜"
+}
+{
+	"_id" : ObjectId("52b69b680de7deec5cc0eb32"),
+	"text" : "29 南京 男",
+	"cid" : NumberLong("3658336300401296"),
+	"uid" : "1605264864",
+	"uname" : "夜伴秋枫"
+}
+{
+	"_id" : ObjectId("52b69b690de7deec5cc0ebd3"),
+	"text" : "希望和南京或者苏州 爱运动的MM认识 ericlol",
+	"cid" : NumberLong("3658324451217809"),
+	"uid" : "1740616197",
+	"uname" : "Eric_Fitness"
+}
+{
+	"_id" : ObjectId("52b68e810de7deec5cc0eabe"),
+	"text" : "南京或者苏州的朋友们 ericlol",
+	"cid" : NumberLong("3658320731035316"),
+	"uid" : "1740616197",
+	"uname" : "Eric_Fitness"
+}
+{
+	"_id" : ObjectId("52b684e40de7deec5cc0e9da"),
+	"text" : "妹纸 南京 微信gougouxww  27通往28的路上。。。",
+	"cid" : NumberLong("3658311993649674"),
+	"uid" : "1899164724",
+	"uname" : "若舞梨花"
+}
+{
+	"_id" : ObjectId("52b684e50de7deec5cc0ea34"),
+	"text" : "南京人在北京 mubarakyang",
+	"cid" : NumberLong("3658308638755174"),
+	"uid" : "1700585887",
+	"uname" : "衹是皮囊"
+}
+{
+	"_id" : ObjectId("52b677d90de7deec5cc0e7dd"),
+	"text" : "汉子 南京人在南京 微信号：fredsunyu~性玉真是业界良心 最后还不忘黑下小米[偷笑]",
+	"cid" : NumberLong("3658298786473827"),
+	"uid" : "2346517145",
+	"uname" : "紫霄屿"
+}
+{
+	"_id" : ObjectId("52b677dc0de7deec5cc0e865"),
+	"text" : "唔有没有南京的汉纸？",
+	"cid" : NumberLong("3658295258898719"),
+	"uid" : "1862656357",
+	"uname" : "蝶仔很虚弱求爱护"
+}
+{
+	"_id" : ObjectId("52b672550de7deec5cc0e70a"),
+	"text" : "武汉人在南京，24  求勾搭！",
+	"cid" : NumberLong("3658293027430951"),
+	"uid" : "1682537253",
+	"uname" : "悟空_LEE先生"
+}
+{
+	"_id" : ObjectId("52b672550de7deec5cc0e733"),
+	"text" : "南京 男 工科烟酒僧 微信Npc_Zy 算是个Geek 宅男 强迫症",
+	"cid" : NumberLong("3658291891118528"),
+	"uid" : "2475269927",
+	"uname" : "Npc_Zy"
+}
+{
+	"_id" : ObjectId("52b672560de7deec5cc0e775"),
+	"text" : "汉子，坐标广西南宁，31日晚到达南京，参加李志演唱会，求南京导游带玩几天。",
+	"cid" : NumberLong("3658290191912811"),
+	"uid" : "1748182617",
+	"uname" : "她还会爱我她还在爱我她还在爱我"
+}
+{
+	"_id" : ObjectId("52b66ddd0de7deec5cc0e619"),
+	"text" : "回复@西国的绅士向渣男:你也是南京的嘛[兔子]",
+	"cid" : NumberLong("3658286350000461"),
+	"uid" : "2720887913",
+	"uname" : "阿板公子世无双"
+}
+{
+	"_id" : ObjectId("52b6669d0de7deec5cc0e59a"),
+	"text" : "南京 20 男",
+	"cid" : NumberLong("3658280499150547"),
+	"uid" : "1830590597",
+	"uname" : "Billionaires_Hj"
+}
+{
+	"_id" : ObjectId("52b6669d0de7deec5cc0e59d"),
+	"text" : "回复@喵喵哒哒喵:大概明白了。。。其实我是徐州到成都来的，今年过年回家还要从南京中转。。。不过想勾搭喵的话他还在我被窝里酣睡呢",
+	"cid" : NumberLong("3658280327241682"),
+	"uid" : "1405591911",
+	"uname" : "FlyDonkey_某驴FD"
+}
+{
+	"_id" : ObjectId("52b664e50de7deec5cc0e4c4"),
+	"text" : "妹子 j江苏南京 程序猿 27搁这里真是大龄啊！微信M_umia",
+	"cid" : NumberLong("3658277575719543"),
+	"uid" : "2078472002",
+	"uname" : "真甜菜"
+}
+{
+	"_id" : ObjectId("52b664e60de7deec5cc0e4f8"),
+	"text" : "回复@丹青千秋酿:不不 是在南京的妹子",
+	"cid" : NumberLong("3658275662520416"),
+	"uid" : "1623338664",
+	"uname" : "琥珀川綠子"
+}
+{
+	"_id" : ObjectId("52b6600a3547425aef423687"),
+	"text" : "男 南京 89 渣渣渣",
+	"cid" : NumberLong("3658268205747034"),
+	"uid" : "1564560445",
+	"uname" : "平凡的摇曳"
+}
+{
+	"_id" : ObjectId("52b6600a3547425aef423695"),
+	"text" : "南京 20 [可爱]男",
+	"cid" : NumberLong("3658267949678063"),
+	"uid" : "2542644135",
+	"uname" : "Super_大金刚"
+}
+{
+	"_id" : ObjectId("52b6600a3547425aef4236a4"),
+	"text" : "南京",
+	"cid" : NumberLong("3658267580475848"),
+	"uid" : "1775858561",
+	"uname" : "椰子船长"
+}
+{
+	"_id" : ObjectId("52b6600b3547425aef4236a5"),
+	"text" : "南京",
+	"cid" : NumberLong("3658267580475848"),
+	"uid" : "1775858561",
+	"uname" : "椰子船长"
+}
+{
+	"_id" : ObjectId("52b6600b3547425aef4236e6"),
+	"text" : "南京，28.满屏90后，森森被伤害了。",
+	"cid" : NumberLong("3658265965748271"),
+	"uid" : "1610487451",
+	"uname" : "hiiragi"
+}
+{
+	"_id" : ObjectId("52b6600c3547425aef42371c"),
+	"text" : "南京人在北京，24岁，微信mubarakyang",
+	"cid" : NumberLong("3658264950492898"),
+	"uid" : "1700585887",
+	"uname" : "衹是皮囊"
+}
+{
+	"_id" : ObjectId("52b6600d3547425aef4237d7"),
+	"text" : "回复@紫苏辛夷:过度的有点长，对了，我也去过南京的大排档，狮子桥的那家吧？",
+	"cid" : NumberLong("3658259745359008"),
+	"uid" : "1450079585",
+	"uname" : "寻梦人Sv"
+}
+{
+	"_id" : ObjectId("52b6600e3547425aef42380e"),
+	"text" : "江苏南京 19 大二学生.[害羞]",
+	"cid" : NumberLong("3658258302700131"),
+	"uid" : "2720887913",
+	"uname" : "阿板公子世无双"
+}
+{
+	"_id" : ObjectId("52b6600f3547425aef423899"),
+	"text" : "都没有看到南京的嘛～",
+	"cid" : NumberLong("3658251977780789"),
+	"uid" : "1784329054",
+	"uname" : "H_Intrepide"
+}
+{
+	"_id" : ObjectId("52b6600f3547425aef4238a1"),
+	"text" : "哇…评论为毛没有搜索功能啊～南京妹子表示很郁闷！",
+	"cid" : NumberLong("3658251541458372"),
+	"uid" : "1784329054",
+	"uname" : "H_Intrepide"
+}
+{
+	"_id" : ObjectId("52b660103547425aef4238da"),
+	"text" : "回复@若栩cC:我再去给他一巴掌.速度太慢...小弟南京的.",
+	"cid" : NumberLong("3658248920358540"),
+	"uid" : "2450327952",
+	"uname" : "缺德抠屁眼"
+}
+{
+	"_id" : ObjectId("52b660103547425aef423936"),
+	"text" : "回复@琥珀川綠子: 发现南京妹子！",
+	"cid" : NumberLong("3658244444682778"),
+	"uid" : "3219565275",
+	"uname" : "丹青千秋酿"
+}
+{
+	"_id" : ObjectId("52b660113547425aef423977"),
+	"text" : "南京，男，无聊黑下大JJ[嘻嘻]",
+	"cid" : NumberLong("3658238941432881"),
+	"uid" : "2439355160",
+	"uname" : "无聊的jojo"
+}
+{
+	"_id" : ObjectId("52b660113547425aef4239ed"),
+	"text" : "都木有南京的妹子[生病]",
+	"cid" : NumberLong("3658227356926913"),
+	"uid" : "1501793633",
+	"uname" : "归老师老湿"
+}
+{
+	"_id" : ObjectId("52b660123547425aef423a0c"),
+	"text" : "回复@琥珀川綠子:南京的好少[挖鼻屎]",
+	"cid" : NumberLong("3658223011496605"),
+	"uid" : "1501793633",
+	"uname" : "归老师老湿"
+}
+{
+	"_id" : ObjectId("52b660123547425aef423a76"),
+	"text" : "南京 26  我是玉米黑",
+	"cid" : NumberLong("3658150681456754"),
+	"uid" : "2719615841",
+	"uname" : "胡一一11一"
+}
+{
+	"_id" : ObjectId("52b660133547425aef423acc"),
+	"text" : "回复@琥珀川綠子:在南京哪儿吖",
+	"cid" : NumberLong("3658135568920229"),
+	"uid" : "1898022305",
+	"uname" : "逐着日-玩家国度ROG"
+}
+{
+	"_id" : ObjectId("52b660143547425aef423b29"),
+	"text" : "回复@琥珀川綠子:南京哪里念书呢",
+	"cid" : NumberLong("3658127184616373"),
+	"uid" : "1734122983",
+	"uname" : "寻找陌小柒"
+}
+{
+	"_id" : ObjectId("52b660143547425aef423b4c"),
+	"text" : "回复@琥珀川綠子:这样～我是南京人在外地[晕]",
+	"cid" : NumberLong("3658125674825319"),
+	"uid" : "1734122983",
+	"uname" : "寻找陌小柒"
+}
+{
+	"_id" : ObjectId("52b660143547425aef423b5c"),
+	"text" : "回复@寻找陌小柒:我不是南京人啊 在这边读书〜",
+	"cid" : NumberLong("3658124772685907"),
+	"uid" : "1623338664",
+	"uname" : "琥珀川綠子"
+}
+{
+	"_id" : ObjectId("52b660143547425aef423b7c"),
+	"text" : "妈蛋 就没见个南京的(￣^￣)ゞ",
+	"cid" : NumberLong("3658123333776685"),
+	"uid" : "1623338664",
+	"uname" : "琥珀川綠子"
+}
+{
+	"_id" : ObjectId("52b660143547425aef423b87"),
+	"text" : "南京或苏州的女性朋友看过来 非分之想的请勿扰 微信号 ericlol",
+	"cid" : NumberLong("3658122612998163"),
+	"uid" : "1740616197",
+	"uname" : "Eric_Fitness"
+}
+{
+	"_id" : ObjectId("52b660163547425aef423c7c"),
+	"text" : "南京仙林。  威信号iphoneclan。",
+	"cid" : NumberLong("3658115109351565"),
+	"uid" : "2185853422",
+	"uname" : "嫦娥十四号"
+}
+bye
