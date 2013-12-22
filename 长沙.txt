@@ -1,0 +1,167 @@
+MongoDB shell version: 2.4.8
+connecting to: test
+switched to db wbdb
+5782
+1000
+{
+	"_id" : ObjectId("52b6f3260de7deec5cc0f305"),
+	"text" : "凑个热闹。。。长沙滴妹陀。。。90后。。",
+	"cid" : NumberLong("3658428222409735"),
+	"uid" : "2921279785",
+	"uname" : "逞强的假面flower"
+}
+{
+	"_id" : ObjectId("52b6e5b30de7deec5cc0f207"),
+	"text" : "长沙 软（nv）妹（han）子(zi) 路过~",
+	"cid" : NumberLong("3658416050921485"),
+	"uid" : "1766049730",
+	"uname" : "敏乐芝士"
+}
+{
+	"_id" : ObjectId("52b6e3480de7deec5cc0f0af"),
+	"text" : "长沙 24",
+	"cid" : NumberLong("3658400750086307"),
+	"uid" : "1858298394",
+	"uname" : "枼冰冰"
+}
+{
+	"_id" : ObjectId("52b6e34a0de7deec5cc0f1e4"),
+	"text" : "吕孩纸，坐标长沙，活泼可爱古灵精怪，爱大高个儿，  正儿八经不猥琐的好汉子速来！",
+	"cid" : NumberLong("3658385402286043"),
+	"uid" : "1792185684",
+	"uname" : "隐约豪放派掌门"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0ef35"),
+	"text" : "回复@QNMLGPD:长沙人只能远看帮顶了!",
+	"cid" : NumberLong("3658378683649224"),
+	"uid" : "2074315237",
+	"uname" : "sunni14"
+}
+{
+	"_id" : ObjectId("52b6b9570de7deec5cc0ee1e"),
+	"text" : "男 长沙 23  175 130  素质交友，周边地域最好，其它地方也可以。男勿扰。",
+	"cid" : NumberLong("3658363437505995"),
+	"uid" : "2686962411",
+	"uname" : "平小凉"
+}
+{
+	"_id" : ObjectId("52b6b3e70de7deec5cc0ed43"),
+	"text" : "长沙男 88年[熊猫]",
+	"cid" : NumberLong("3658358722844758"),
+	"uid" : "2370117564",
+	"uname" : "王小呵W"
+}
+{
+	"_id" : ObjectId("52b6a42f0de7deec5cc0ec23"),
+	"text" : "这是真的么....90年汉子在长沙，微信号SoAmazing，万一中了呢。",
+	"cid" : NumberLong("3658342918657400"),
+	"uid" : "2056303681",
+	"uname" : "正文未赢够"
+}
+{
+	"_id" : ObjectId("52b69b680de7deec5cc0eb9f"),
+	"text" : "22长沙汉子会卖萌。随便来一个就成。",
+	"cid" : NumberLong("3658327294487601"),
+	"uid" : "1691217205",
+	"uname" : "老司机李光头"
+}
+{
+	"_id" : ObjectId("52b69b690de7deec5cc0ebd1"),
+	"text" : "妹子，长沙，微信634510018。以前没有认真过过圣诞，那时朋友同学在身边，每天都是节日。现在一个人生活换工作，心情不稳定，想找个人感受一下圣诞带来的喜庆气息。",
+	"cid" : NumberLong("3658324900200303"),
+	"uid" : "1747796837",
+	"uname" : "顾惜景"
+}
+{
+	"_id" : ObjectId("52b684e50de7deec5cc0ea3a"),
+	"text" : "回复@白天不见喵:但...但是我在长沙啊...",
+	"cid" : NumberLong("3658308416135718"),
+	"uid" : "1762474840",
+	"uname" : "桜子-sakurako"
+}
+{
+	"_id" : ObjectId("52b677da0de7deec5cc0e811"),
+	"text" : "湖南长沙，互联网公司市场拓展，微信：xiaoju",
+	"cid" : NumberLong("3658297574036365"),
+	"uid" : "1143018561",
+	"uname" : "晓驹Flyme"
+}
+{
+	"_id" : ObjectId("52b677dc0de7deec5cc0e85e"),
+	"text" : "汉子 xiaohuangjiwangding 长沙 大二学生[转发]",
+	"cid" : NumberLong("3658295438808529"),
+	"uid" : "3029728921",
+	"uname" : "王汪汪和王汪汪的故事"
+}
+{
+	"_id" : ObjectId("52b677dc0de7deec5cc0e871"),
+	"text" : "回复@yoyayayi:没微信还是可以被长沙的看到的!!!",
+	"cid" : NumberLong("3658294944499642"),
+	"uid" : "2074315237",
+	"uname" : "sunni14"
+}
+{
+	"_id" : ObjectId("52b6600b3547425aef4236bc"),
+	"text" : "圆脸妹子在长沙[羞嗒嗒]微信请私信询问~",
+	"cid" : NumberLong("3658267039654745"),
+	"uid" : "2395038564",
+	"uname" : "自来水厂也停水"
+}
+{
+	"_id" : ObjectId("52b6600d3547425aef42377f"),
+	"text" : "木有看到长沙的软妹子啊~~",
+	"cid" : NumberLong("3658262451106581"),
+	"uid" : "1276553291",
+	"uname" : "O苏门山O"
+}
+{
+	"_id" : ObjectId("52b660113547425aef423967"),
+	"text" : "没有长沙的女孩子吗？22岁男，177，身材还行，爱好运动，半文艺半geek",
+	"cid" : NumberLong("3658240732587312"),
+	"uid" : "1806966000",
+	"uname" : "明朝欢乐多"
+}
+{
+	"_id" : ObjectId("52b660113547425aef42396a"),
+	"text" : "长沙.   二十三.  没有微信怎么办呢？",
+	"cid" : NumberLong("3658240501536761"),
+	"uid" : "1858633520",
+	"uname" : "yoyayayi"
+}
+{
+	"_id" : ObjectId("52b660123547425aef423a23"),
+	"text" : "再回一个 妹子 163 长沙  一起过节吧",
+	"cid" : NumberLong("3658219786742343"),
+	"uid" : "3324139024",
+	"uname" : "小熊打屁拉屎222"
+}
+{
+	"_id" : ObjectId("52b660123547425aef423a77"),
+	"text" : "男   20 180公分 略胖 长沙人 -.-  各种可勾搭",
+	"cid" : NumberLong("3658150299397877"),
+	"uid" : "2273459704",
+	"uname" : "-薯片哥-"
+}
+{
+	"_id" : ObjectId("52b660163547425aef423c85"),
+	"text" : "长沙 大四学生。在长沙最后个圣诞了 欢迎预定吃饭",
+	"cid" : NumberLong("3658114975102502"),
+	"uid" : "2492531820",
+	"uname" : "动感超从"
+}
+{
+	"_id" : ObjectId("52b660163547425aef423c9e"),
+	"text" : "长沙土肥圆！zhangyansi",
+	"cid" : NumberLong("3658114400348091"),
+	"uid" : "1827073632",
+	"uname" : "胖锅Gor"
+}
+{
+	"_id" : ObjectId("52b660173547425aef423ce9"),
+	"text" : "大湖南 长沙人 22岁 [呵呵]",
+	"cid" : NumberLong("3658112227998539"),
+	"uid" : "1697182667",
+	"uname" : "Flllllllllllllllllllll"
+}
+bye

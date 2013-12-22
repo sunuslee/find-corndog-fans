@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5712
+5782
 1000
+{
+	"_id" : ObjectId("52b6f7ed0de7deec5cc0f334"),
+	"text" : "上海 男 90年 微信号jcl0116",
+	"cid" : NumberLong("3658435809913977"),
+	"uid" : "1292111682",
+	"uname" : "蒋成龙-尒龍"
+}
 {
 	"_id" : ObjectId("52b6ef7b0de7deec5cc0f2af"),
 	"text" : "北京 上海 杭州 广州 天津 南京 的分类信息汇总: http://t.cn/8kjBzrs 拿去把大家~ 祝你们好运@性感玉米",

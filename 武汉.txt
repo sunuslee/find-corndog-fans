@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5712
+5782
 1000
+{
+	"_id" : ObjectId("52b6f7ed0de7deec5cc0f333"),
+	"text" : "回复@王野合:@少年卿言 武汉滴师姐在这",
+	"cid" : NumberLong("3658435830258070"),
+	"uid" : "2436423634",
+	"uname" : "林露梦不是林梦露"
+}
 {
 	"_id" : ObjectId("52b6f3260de7deec5cc0f2fa"),
 	"text" : "武汉汉子19，我不断的洗澡，油腻的师姐在哪里～",

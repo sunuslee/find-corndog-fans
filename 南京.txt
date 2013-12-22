@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5712
+5782
 1000
+{
+	"_id" : ObjectId("52b6f7ed0de7deec5cc0f35c"),
+	"text" : "南京大二滴。。。。。。。",
+	"cid" : NumberLong("3658433276455749"),
+	"uid" : "2817422134",
+	"uname" : "9色白花1993"
+}
 {
 	"_id" : ObjectId("52b6f3260de7deec5cc0f303"),
 	"text" : "回复@黄峰Bee:南京已经加了, 去看吧.http://t.cn/8kjBzrs 南京.txt",
@@ -93,6 +100,13 @@ switched to db wbdb
 	"cid" : NumberLong("3658383842321006"),
 	"uid" : "2290378557",
 	"uname" : "摄影9课-鹌鹑祈祷中"
+}
+{
+	"_id" : ObjectId("52b6f7f40de7deec5cc0f367"),
+	"text" : "南京20岁汉子，求话唠妹子！wfzclca微信～",
+	"cid" : NumberLong("3658383842321006"),
+	"uid" : "2290378557",
+	"uname" : "摄影9课-鹌鹑想和你在一起"
 }
 {
 	"_id" : ObjectId("52b6c7f80de7deec5cc0eef9"),

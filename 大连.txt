@@ -1,0 +1,146 @@
+MongoDB shell version: 2.4.8
+connecting to: test
+switched to db wbdb
+5782
+1000
+{
+	"_id" : ObjectId("52b6f3260de7deec5cc0f2e4"),
+	"text" : "大连汉子~~22岁。。微信号chairen0803",
+	"cid" : NumberLong("3658430378393100"),
+	"uid" : "1764159562",
+	"uname" : "柴忍"
+}
+{
+	"_id" : ObjectId("52b6e5b30de7deec5cc0f1f2"),
+	"text" : "性欲大大，按地域划分一下嘛，这扒拉好几页也看不到个大连的汉子甚是捉急啊",
+	"cid" : NumberLong("3658416868260076"),
+	"uid" : "1273980215",
+	"uname" : "卡倒欠儿"
+}
+{
+	"_id" : ObjectId("52b6e5b30de7deec5cc0f216"),
+	"text" : "回复@卡倒欠儿: 大连的啊！ 啊 我是沈阳的~~~[握手]",
+	"cid" : NumberLong("3658415295695970"),
+	"uid" : "1610782003",
+	"uname" : "天橋算命哥"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0eee6"),
+	"text" : "辽宁大连学生狗一只◐▂◐",
+	"cid" : NumberLong("3658380826137739"),
+	"uid" : "3761365241",
+	"uname" : "苏虎不虎"
+}
+{
+	"_id" : ObjectId("52b69b680de7deec5cc0eb59"),
+	"text" : "[羞嗒嗒]大连 22 念书党  无聊上来冒个泡  fuxiaodai[甩甩手]",
+	"cid" : NumberLong("3658332478789539"),
+	"uid" : "1725137907",
+	"uname" : "傅小呆呆了个呆"
+}
+{
+	"_id" : ObjectId("52b68e810de7deec5cc0eae3"),
+	"text" : "男生，大连，23，双鱼座，研究生，长相普通，爱好广泛，微信号nightmares13，以上。",
+	"cid" : NumberLong("3658318847000582"),
+	"uid" : "1941210301",
+	"uname" : "Saligia__泠水月"
+}
+{
+	"_id" : ObjectId("52b672560de7deec5cc0e784"),
+	"text" : "回复@TheCircle_Lin:七粽是什么。。。东大在北京分不高，我昨天去了大连更觉得东大好烂。。。好好学还半年来得及",
+	"cid" : NumberLong("3658289919241011"),
+	"uid" : "3238914977",
+	"uname" : "丶焚风重新开始"
+}
+{
+	"_id" : ObjectId("52b66ddd0de7deec5cc0e60f"),
+	"text" : "大二妹子 ，目前在大连。[害羞][耶]",
+	"cid" : NumberLong("3658286496698581"),
+	"uid" : "2283838394",
+	"uname" : "菇凉似朵花"
+}
+{
+	"_id" : ObjectId("52b66dde0de7deec5cc0e65a"),
+	"text" : "男 大连 没在市内 24 wower 喜欢Oasis, Radiohead, Kings of Convenience",
+	"cid" : NumberLong("3658284743222455"),
+	"uid" : "1969587043",
+	"uname" : "过期的胶片"
+}
+{
+	"_id" : ObjectId("52b66dde0de7deec5cc0e66a"),
+	"text" : "大连 没在市内 24 wower 喜欢Oasis Radiohead Kings of",
+	"cid" : NumberLong("3658284344899491"),
+	"uid" : "1969587043",
+	"uname" : "过期的胶片"
+}
+{
+	"_id" : ObjectId("52b66dde0de7deec5cc0e68b"),
+	"text" : "大连 汉 20 微信cristiano_qln9 求妹纸",
+	"cid" : NumberLong("3658283762046242"),
+	"uid" : "1826875275",
+	"uname" : "Django_sandman"
+}
+{
+	"_id" : ObjectId("52b6673a0de7deec5cc0e5b7"),
+	"text" : "回复@兔_武裝戰線BusohSensen:大连的飘过，sd1837",
+	"cid" : NumberLong("3658280918437009"),
+	"uid" : "2131535977",
+	"uname" : "Freeze-KeepOnDancing"
+}
+{
+	"_id" : ObjectId("52b666360de7deec5cc0e56e"),
+	"text" : "永远也碰不上大连的[泪]",
+	"cid" : NumberLong("3658280192542968"),
+	"uid" : "1781117325",
+	"uname" : "兔_武裝戰線BusohSensen"
+}
+{
+	"_id" : ObjectId("52b660083547425aef423600"),
+	"text" : "汉子，蜀中简阳帝国人，年21，修182有余，学生狗，大连凌海路男子职业划船技术学校",
+	"cid" : NumberLong("3658271325852446"),
+	"uid" : "2111061324",
+	"uname" : "贺戈船"
+}
+{
+	"_id" : ObjectId("52b6600a3547425aef423699"),
+	"text" : "大连",
+	"cid" : NumberLong("3658267852631601"),
+	"uid" : "1911407340",
+	"uname" : "曾经也是祖国大花园的花朵"
+}
+{
+	"_id" : ObjectId("52b6600b3547425aef4236b9"),
+	"text" : "有大连的妹子吗？求圣诞节一起过呀呀呀啊",
+	"cid" : NumberLong("3658267106300456"),
+	"uid" : "1956416371",
+	"uname" : "Stewie统治世界"
+}
+{
+	"_id" : ObjectId("52b660123547425aef423a1b"),
+	"text" : "回复@苏虎不虎:大连的妹子我来晚了。。。。",
+	"cid" : NumberLong("3658221069365312"),
+	"uid" : "2643762823",
+	"uname" : "我整个人都不好了啊"
+}
+{
+	"_id" : ObjectId("52b660133547425aef423b11"),
+	"text" : "人在大连，辽宁师范一汉子，微信号，speanlist，运动康复专业，悬壶以为乐，善于减脂",
+	"cid" : NumberLong("3658128857876481"),
+	"uid" : "2785900707",
+	"uname" : "仨凯挂俩尖"
+}
+{
+	"_id" : ObjectId("52b660153547425aef423c09"),
+	"text" : "壮汉一条，身在美丽的大连。微信号:tianye527。大四单身汉。为啥我就看不到大连的妹子？身在大连的姑娘，请举起你的双手，让我看到你！",
+	"cid" : NumberLong("3658117994697288"),
+	"uid" : "1134999452",
+	"uname" : "弗莱威兹温德"
+}
+{
+	"_id" : ObjectId("52b660163547425aef423cae"),
+	"text" : "回复@苏虎不虎:翻了性欲强的三百多页微博，好像只有你一个大连妹纸",
+	"cid" : NumberLong("3658114039227163"),
+	"uid" : "1826875275",
+	"uname" : "Django_sandman"
+}
+bye

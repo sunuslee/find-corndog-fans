@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5712
+5782
 1000
+{
+	"_id" : ObjectId("52b6f7ed0de7deec5cc0f324"),
+	"text" : "来一发～广州，前学霸，求打算去美帝的软妹一起学英语～",
+	"cid" : NumberLong("3658436572728906"),
+	"uid" : "1420300567",
+	"uname" : "Ryan向南"
+}
+{
+	"_id" : ObjectId("52b6f7ed0de7deec5cc0f348"),
+	"text" : "广州/佛山，21，男，大四，但还有3年可以继续读，双鱼，人不高只有165，别来太高的女汉子我好有压力",
+	"cid" : NumberLong("3658434635487384"),
+	"uid" : "1843290162",
+	"uname" : "LutherWen"
+}
 {
 	"_id" : ObjectId("52b6f43c0de7deec5cc0f31b"),
 	"text" : "再来一发，求程序扫出关键词~广州单身狗摄影狗，21，来妹子过圣诞啊",
