@@ -1,8 +1,64 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4469
+4865
 1000
+{
+	"_id" : ObjectId("52b6c7f70de7deec5cc0eeb4"),
+	"text" : "叼，补充u广州的",
+	"cid" : NumberLong("3658382374701854"),
+	"uid" : "1731310717",
+	"uname" : "SephilothX_6gs"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0ef2e"),
+	"text" : "男。25.央企。公司在广州、现人在厦门。ge0geblue.微信号。",
+	"cid" : NumberLong("3658378926957026"),
+	"uid" : "2005550593",
+	"uname" : "黄二猫叔"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0ef62"),
+	"text" : "回复@凌晨呀:@Paul_菠萝 同是广州的",
+	"cid" : NumberLong("3658377437797826"),
+	"uid" : "2436423634",
+	"uname" : "林露梦不是林梦露"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0ef66"),
+	"text" : "地标广州，被设计做的22男生一个，求同在广州的[奥特曼]",
+	"cid" : NumberLong("3658377299571111"),
+	"uid" : "1733625343",
+	"uname" : "BoTakWong"
+}
+{
+	"_id" : ObjectId("52b6c7f90de7deec5cc0ef92"),
+	"text" : "女。23.广州。",
+	"cid" : NumberLong("3658375667278944"),
+	"uid" : "2651505512",
+	"uname" : "凌晨呀"
+}
+{
+	"_id" : ObjectId("52b6c7f90de7deec5cc0efa5"),
+	"text" : "回复@chanchanyeah:广州妹子！",
+	"cid" : NumberLong("3658375030620336"),
+	"uid" : "1892865260",
+	"uname" : "freegol"
+}
+{
+	"_id" : ObjectId("52b6c7f90de7deec5cc0efc9"),
+	"text" : "广州，男，微信vincentpein",
+	"cid" : NumberLong("3658372601195874"),
+	"uid" : "1762808484",
+	"uname" : "尐荣_零柒建築贰"
+}
+{
+	"_id" : ObjectId("52b6c7f90de7deec5cc0efca"),
+	"text" : "回复@蕾小杨:看到广州的忍不住回一个",
+	"cid" : NumberLong("3658372593696641"),
+	"uid" : "1757046007",
+	"uname" : "我真的叫红领巾"
+}
 {
 	"_id" : ObjectId("52b6bb530de7deec5cc0ee2b"),
 	"text" : "@性感玉米 我写了个程序, 当天有北京,天津,杭州,上海,广州的分类信息. http://t.cn/8kjBzrs [哈哈] 点开链接自己找把.",

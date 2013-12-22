@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4464
+4865
 1000
+{
+	"_id" : ObjectId("52b6c7f90de7deec5cc0efaa"),
+	"text" : "天津的妹纸有吗 我大三[泪][泪][泪]",
+	"cid" : NumberLong("3658374728584929"),
+	"uid" : "2216558025",
+	"uname" : "孔忠忠忠"
+}
 {
 	"_id" : ObjectId("52b6bb530de7deec5cc0ee2b"),
 	"text" : "@性感玉米 我写了个程序, 当天有北京,天津,杭州,上海,广州的分类信息. http://t.cn/8kjBzrs [哈哈] 点开链接自己找把.",

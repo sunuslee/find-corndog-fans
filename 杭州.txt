@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4469
+4865
 1000
+{
+	"_id" : ObjectId("52b6c7f70de7deec5cc0eedc"),
+	"text" : "93  杭州  大学僧/狗",
+	"cid" : NumberLong("3658381166812395"),
+	"uid" : "2834552060",
+	"uname" : "群群超超"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0eede"),
+	"text" : "杭州 男 24 微信：Gyue_J",
+	"cid" : NumberLong("3658381120461278"),
+	"uid" : "1787071403",
+	"uname" : "我是虎威"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0eeed"),
+	"text" : "杭州 屌丝 25岁！",
+	"cid" : NumberLong("3658380650621850"),
+	"uid" : "3190034410",
+	"uname" : "语涕"
+}
+{
+	"_id" : ObjectId("52b6c7f80de7deec5cc0ef1a"),
+	"text" : "杭州大二美院妹纸 高挑偏瘦 性格体贴会照顾人[羞嗒嗒]",
+	"cid" : NumberLong("3658379329674267"),
+	"uid" : "1821275034",
+	"uname" : "满地都是小猩猩"
+}
+{
+	"_id" : ObjectId("52b6c7f90de7deec5cc0ef8a"),
+	"text" : "杭州 大二 妹子一枚 刚过20 微信：faramita159 [害羞]",
+	"cid" : NumberLong("3658376053396483"),
+	"uid" : "1786799964",
+	"uname" : "禾禾禾禾禾_"
+}
+{
+	"_id" : ObjectId("52b6c7f90de7deec5cc0efa7"),
+	"text" : "杭州 27 汉纸 直的 不靠谱 不正经 不着调 微信hi_phone",
+	"cid" : NumberLong("3658374950445571"),
+	"uid" : "1706813392",
+	"uname" : "窝4个深井冰"
+}
 {
 	"_id" : ObjectId("52b6bb530de7deec5cc0ee2b"),
 	"text" : "@性感玉米 我写了个程序, 当天有北京,天津,杭州,上海,广州的分类信息. http://t.cn/8kjBzrs [哈哈] 点开链接自己找把.",
