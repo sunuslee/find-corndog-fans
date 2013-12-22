@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5638
+5696
 1000
+{
+	"_id" : ObjectId("52b6f3260de7deec5cc0f303"),
+	"text" : "回复@黄峰Bee:南京已经加了, 去看吧.http://t.cn/8kjBzrs 南京.txt",
+	"cid" : NumberLong("3658428260469998"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b6ef7a0de7deec5cc0f279"),
 	"text" : "南京 18 其實我是軟妹無誤（。x。）告訴我南京比較好的電影院有哪些就好!!!!\\'!還有打桌球的地方！！",
