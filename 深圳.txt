@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5815
+6156
 1000
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3cc"),
+	"text" : "回复@锺武杰: @MOMO_欣_ 这个是深圳妹子 不是富婆 但是胖的有点富贵感",
+	"cid" : NumberLong("3658459360492288"),
+	"uid" : "2276339287",
+	"uname" : "Yuta君"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f405"),
+	"text" : "特么这么多评论。。。。。。。随意留个看有没有有缘人看到吧~ 汉子~城市：东莞OR深圳~微信号：kennymo7~",
+	"cid" : NumberLong("3658455090750784"),
+	"uid" : "1730101712",
+	"uname" : "kennymo7"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f41b"),
+	"text" : "深圳22，男，照片看微博，有父母双亡又癌症晚期的超级富婆吗[爱你]",
+	"cid" : NumberLong("3658452260099190"),
+	"uid" : "1701093364",
+	"uname" : "锺武杰"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f49b"),
+	"text" : "人在深圳的东北人",
+	"cid" : NumberLong("3658443808268949"),
+	"uid" : "1867885992",
+	"uname" : "Tom--壮壮"
+}
 {
 	"_id" : ObjectId("52b6fa520de7deec5cc0f385"),
 	"text" : "回复@MOMO_欣_:欸深圳？那也不远啊[做鬼脸]",

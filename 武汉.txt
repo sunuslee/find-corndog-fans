@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5815
+6156
 1000
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f401"),
+	"text" : "回复@蔡什么_:武汉24男。",
+	"cid" : NumberLong("3658455170450086"),
+	"uid" : "2093983550",
+	"uname" : "Mc_Hust1a"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f45e"),
+	"text" : "回复@蔡什么_:武汉24男。",
+	"cid" : NumberLong("3658447822453005"),
+	"uid" : "2093983550",
+	"uname" : "Mc_Hust1a"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f467"),
+	"text" : "武汉 大三 女",
+	"cid" : NumberLong("3658446974769610"),
+	"uid" : "1895548225",
+	"uname" : "蔡什么_"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f490"),
+	"text" : "回复@王野合:想念武汉的热干面周黑鸭小吃一条街啊啊啊啊啊啊",
+	"cid" : NumberLong("3658444567254526"),
+	"uid" : "2436423634",
+	"uname" : "林露梦不是林梦露"
+}
+{
+	"_id" : ObjectId("52b713160de7deec5cc0f4bf"),
+	"text" : "回复@林露梦不是林梦露:酱啊，那也算半个武汉人[嘻嘻]",
+	"cid" : NumberLong("3658440906259486"),
+	"uid" : "1739868814",
+	"uname" : "王野合"
+}
 {
 	"_id" : ObjectId("52b6fa520de7deec5cc0f36f"),
 	"text" : "回复@王野合:欸呵呵我也在武汉上过大学不过我是浙江人呢",

@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5815
+6156
 1000
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f44b"),
+	"text" : "目前在杭州工作的汉子，24岁，之后准备定居杭州了。有没有性欲的杭州妹纸粉呀！",
+	"cid" : NumberLong("3658448950727713"),
+	"uid" : "2018379155",
+	"uname" : "半熟卤蛋"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f4a3"),
+	"text" : "睡前再来凑一凑~ 妹子 坐标杭州 苦逼大四党 爱好 唱歌 吉他~ 微信：linruofenglin~",
+	"cid" : NumberLong("3658443493269720"),
+	"uid" : "1731241505",
+	"uname" : "float_你在烦恼什么"
+}
 {
 	"_id" : ObjectId("52b6ef7b0de7deec5cc0f2af"),
 	"text" : "北京 上海 杭州 广州 天津 南京 的分类信息汇总: http://t.cn/8kjBzrs 拿去把大家~ 祝你们好运@性感玉米",

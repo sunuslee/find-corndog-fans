@@ -1,8 +1,92 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5815
+6156
 1000
+{
+	"_id" : ObjectId("52b713130de7deec5cc0f38e"),
+	"text" : "回复@如果你是天边的一朵云:嗯，上海女孩高个儿还是挺少见的呢，侬是上海人？",
+	"cid" : NumberLong("3658465128142502"),
+	"uid" : "2546979434",
+	"uname" : "胖哥依然小清新"
+}
+{
+	"_id" : ObjectId("52b713130de7deec5cc0f3b3"),
+	"text" : "回复@如果你是天边的一朵云:哈哈，当初选择留在上海，说不定就能看到你了，白富美",
+	"cid" : NumberLong("3658460891740594"),
+	"uid" : "2546979434",
+	"uname" : "胖哥依然小清新"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3cf"),
+	"text" : "性感玉米好样的，虽然觉得你这活动不靠谱，成功概率太小，不过还是支持你助人为乐的精神。本人男，上海，原籍天津，在成都长大，张江男。29，芯片行业，喜好国内外自助游，看大量古典小说。微信：6554 3605。求同样爱好自助游，或爱好读书的妹子。谢谢支持。",
+	"cid" : NumberLong("3658459188673789"),
+	"uid" : "2121098170",
+	"uname" : "campnou2001"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3da"),
+	"text" : "176汉子 现在上海 微信号diego25913 介绍嘛...就跟微博名字差不多就对了 外貌协会的姑娘们对不住了 嗯 就这样吧",
+	"cid" : NumberLong("3658458131971013"),
+	"uid" : "1677515641",
+	"uname" : "麦2贱人专注逗逼20多年"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3df"),
+	"text" : "91年上海男纸飘过一下[泪]",
+	"cid" : NumberLong("3658457746378393"),
+	"uid" : "2491557080",
+	"uname" : "节艹不要了"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3f9"),
+	"text" : "高个妹子177上海。23。目测圣诞节一个人。",
+	"cid" : NumberLong("3658455883898944"),
+	"uid" : "1916137577",
+	"uname" : "如果你是天边的一朵云"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3ff"),
+	"text" : "肯定不会有上海妹子看到我的",
+	"cid" : NumberLong("3658455397257491"),
+	"uid" : "1836930674",
+	"uname" : "纠结的得地de胖子"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f403"),
+	"text" : "@性感玉米 再拉点妹子哇。来晚了！ 难道说你的粉丝都是基佬么！！！ 来妹子。求在上海的妹子勾搭！！！",
+	"cid" : NumberLong("3658455136892619"),
+	"uid" : "2005722894",
+	"uname" : "弱智儿童欢乐多ztl"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f408"),
+	"text" : "求上海妹纸一枚！！[哈哈]",
+	"cid" : NumberLong("3658454785109861"),
+	"uid" : "1645494094",
+	"uname" : "夜之凝"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f439"),
+	"text" : "有木有上海的妹子[爱你]",
+	"cid" : NumberLong("3658450149770521"),
+	"uid" : "1646535142",
+	"uname" : "-天地有雪"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f4ae"),
+	"text" : "上海啊，有没有啊～",
+	"cid" : NumberLong("3658442919167081"),
+	"uid" : "1890285504",
+	"uname" : "Suede_s"
+}
+{
+	"_id" : ObjectId("52b713160de7deec5cc0f4c5"),
+	"text" : "上海男 21 大四了哦 明年去美、澳留学 求爱看美剧妹子聊天 搞基勿扰 谢谢",
+	"cid" : NumberLong("3658440679711912"),
+	"uid" : "1978829940",
+	"uname" : "Skywalker-Ivan"
+}
 {
 	"_id" : ObjectId("52b6fa520de7deec5cc0f377"),
 	"text" : "上海 男 21 微信号：yangyin579111 求个妹子出去跨年，评论数太多了，凭运气吧",

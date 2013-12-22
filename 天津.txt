@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5815
+6156
 1000
+{
+	"_id" : ObjectId("52b713130de7deec5cc0f395"),
+	"text" : "江苏人 在天津求学中…[挖鼻屎]",
+	"cid" : NumberLong("3658464108911182"),
+	"uid" : "2679912942",
+	"uname" : "石石石石大頭"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3cf"),
+	"text" : "性感玉米好样的，虽然觉得你这活动不靠谱，成功概率太小，不过还是支持你助人为乐的精神。本人男，上海，原籍天津，在成都长大，张江男。29，芯片行业，喜好国内外自助游，看大量古典小说。微信：6554 3605。求同样爱好自助游，或爱好读书的妹子。谢谢支持。",
+	"cid" : NumberLong("3658459188673789"),
+	"uid" : "2121098170",
+	"uname" : "campnou2001"
+}
 {
 	"_id" : ObjectId("52b6f7ed0de7deec5cc0f332"),
 	"text" : "从七粽那过来滴，天津妹子，21，大四在读~但是过几天就回津啦~~",

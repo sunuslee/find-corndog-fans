@@ -49,7 +49,7 @@ class SunusBroswer(urllib2.OpenerDirector):
         self.add_handler(urllib2.FileHandler())
         self.add_handler(urllib2.UnknownHandler())
         self.addheaders = [
-            ('User-agent', 'Mozilla/5.0 Gecko/20100101 Firefox/20.0'),
+            ('User-agent', 'Mozilla/5.0 Gecko/20100101 Firefox/26.0'),
             ('Accept-Encoding', 'gzip'),
             ('Connection',  'keep-alive'),
         ]

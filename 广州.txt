@@ -1,8 +1,57 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5815
+6156
 1000
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3d6"),
+	"text" : "回复@半熟hizaki:能见其大喜（广州最近真是冷死了）",
+	"cid" : NumberLong("3658458685723119"),
+	"uid" : "2044557090",
+	"uname" : "娃娃鱼不是鱼"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f43d"),
+	"text" : "1W多评论,我也试试,广州男,22,ACG,PS3PSV,我开个头:玉米是sb",
+	"cid" : NumberLong("3658449836015921"),
+	"uid" : "1863458821",
+	"uname" : "noob--志鹏"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f442"),
+	"text" : "_(:з」∠)_广州21汉子求勾搭 新番美剧科技圈游戏都能聊 微信：Dark_Envy",
+	"cid" : NumberLong("3658449575240480"),
+	"uid" : "1719692901",
+	"uname" : "SteVenXX_KAWS"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f4b1"),
+	"text" : "回复@HJS六月飞霜:广州",
+	"cid" : NumberLong("3658442793639771"),
+	"uid" : "1625714762",
+	"uname" : "Enner7"
+}
+{
+	"_id" : ObjectId("52b713160de7deec5cc0f4bb"),
+	"text" : "回复@栗子091031:就是感觉你是广州的呀",
+	"cid" : NumberLong("3658441342245223"),
+	"uid" : "1310922445",
+	"uname" : "醉头陀_"
+}
+{
+	"_id" : ObjectId("52b713160de7deec5cc0f4cd"),
+	"text" : "回复@醉头陀_:啊？我不是广州的  我是广东的可是不是广州",
+	"cid" : NumberLong("3658439987742327"),
+	"uid" : "3270476782",
+	"uname" : "栗子091031"
+}
+{
+	"_id" : ObjectId("52b713160de7deec5cc0f4d8"),
+	"text" : "回复@栗子091031:圣诞广州有什么特别的节目么",
+	"cid" : NumberLong("3658439408719869"),
+	"uid" : "1310922445",
+	"uname" : "醉头陀_"
+}
 {
 	"_id" : ObjectId("52b6fa520de7deec5cc0f36d"),
 	"text" : "一米七零芳龄24单身广州男猥琐撸过，有木有同猥琐的妹纸。",

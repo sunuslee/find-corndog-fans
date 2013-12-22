@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5815
+6156
 1000
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3dd"),
+	"text" : "北京，北漂，88，男……我微博很有意思……",
+	"cid" : NumberLong("3658457850898733"),
+	"uid" : "1262161573",
+	"uname" : "自行车108"
+}
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f41d"),
+	"text" : "汉子求妹子。北京滴，有点闷，有点骚，有点帅有点怪，有点幽默有点赖～妹子私信给微信号哈！PS，哥183cm，75kg。",
+	"cid" : NumberLong("3658452108585001"),
+	"uid" : "1623824495",
+	"uname" : "我是赵亚军"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f458"),
+	"text" : "男，24，坐标北京。微信ishenchenqian。除了单身过得其实还不错。",
+	"cid" : NumberLong("3658448052817131"),
+	"uid" : "3060518293",
+	"uname" : "他会在海拉尔"
+}
 {
 	"_id" : ObjectId("52b6ef7b0de7deec5cc0f2af"),
 	"text" : "北京 上海 杭州 广州 天津 南京 的分类信息汇总: http://t.cn/8kjBzrs 拿去把大家~ 祝你们好运@性感玉米",

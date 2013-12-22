@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5815
+6156
 1000
+{
+	"_id" : ObjectId("52b713140de7deec5cc0f3cd"),
+	"text" : "回复@sunusLee:麻烦添加一下 苏州的 谢谢",
+	"cid" : NumberLong("3658459331535860"),
+	"uid" : "1740616197",
+	"uname" : "Eric_Fitness"
+}
+{
+	"_id" : ObjectId("52b713150de7deec5cc0f465"),
+	"text" : "苏州求个软妹或者硬汉一起吃饭or看电影，最好是周末or圣诞吧= =微信loveteyes",
+	"cid" : NumberLong("3658447017206793"),
+	"uid" : "1928927894",
+	"uname" : "白河sama"
+}
+{
+	"_id" : ObjectId("52b713160de7deec5cc0f4da"),
+	"text" : "蓝翔技工高达操作专业 玩笑 】坐标 苏州 大专狗一个 男 20 身182 伪宅 爱塑料小人 爱特摄 爱萝卜 爱JOJO 爱天元 不爱肉 萌 宫 美剧日剧英剧都会看 小说大部分通吃 微信号huoyeyingsi 欢迎有共同爱好的人",
+	"cid" : NumberLong("3658439333204039"),
+	"uid" : "2258279014",
+	"uname" : "井上正太"
+}
 {
 	"_id" : ObjectId("52b6e3460de7deec5cc0efe4"),
 	"text" : "回复@召南摽有梅:给性玉差评 苏州的妹子都没有",
