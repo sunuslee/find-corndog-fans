@@ -1,6 +1,6 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6156
+6211
 1000
 bye

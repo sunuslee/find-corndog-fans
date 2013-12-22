@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6156
+6211
 1000
+{
+	"_id" : ObjectId("52b71a100de7deec5cc0f501"),
+	"text" : "回复@一猫之主黄金桑:深圳妹子",
+	"cid" : NumberLong("3658468743053861"),
+	"uid" : "2276339287",
+	"uname" : "Yuta君"
+}
 {
 	"_id" : ObjectId("52b713140de7deec5cc0f3cc"),
 	"text" : "回复@锺武杰: @MOMO_欣_ 这个是深圳妹子 不是富婆 但是胖的有点富贵感",

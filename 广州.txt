@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6156
+6211
 1000
+{
+	"_id" : ObjectId("52b71a100de7deec5cc0f4e4"),
+	"text" : "回复@Ryan向南: @冷静的喵喵 广州 女 大学生 @见字如面Xjun 这个在广州准备联考。。",
+	"cid" : NumberLong("3658471788475977"),
+	"uid" : "2276339287",
+	"uname" : "Yuta君"
+}
+{
+	"_id" : ObjectId("52b71a100de7deec5cc0f4f5"),
+	"text" : "回复@Yuta君:广州的～要女的～大学生佳～如果正在学英语准备考托杀G写essay神马的就更好了～",
+	"cid" : NumberLong("3658470051746890"),
+	"uid" : "1420300567",
+	"uname" : "Ryan向南"
+}
+{
+	"_id" : ObjectId("52b71a100de7deec5cc0f50a"),
+	"text" : "[挖鼻屎]元旦广州有无人出嚟倒数？",
+	"cid" : NumberLong("3658467849614831"),
+	"uid" : "1719692901",
+	"uname" : "SteVenXX_KAWS"
+}
 {
 	"_id" : ObjectId("52b713140de7deec5cc0f3d6"),
 	"text" : "回复@半熟hizaki:能见其大喜（广州最近真是冷死了）",

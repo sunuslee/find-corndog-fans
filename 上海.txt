@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6156
+6211
 1000
+{
+	"_id" : ObjectId("52b71a100de7deec5cc0f4f1"),
+	"text" : "上海的，25岁，爱知乎爱果壳爱读书-。求上海的165以下的软妹子，我是认真的[xkl转圈]。微信：weiboleo2099",
+	"cid" : NumberLong("3658470337171713"),
+	"uid" : "1894041490",
+	"uname" : "-青城的围脖-"
+}
 {
 	"_id" : ObjectId("52b713130de7deec5cc0f38e"),
 	"text" : "回复@如果你是天边的一朵云:嗯，上海女孩高个儿还是挺少见的呢，侬是上海人？",
