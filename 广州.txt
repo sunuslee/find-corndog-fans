@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-4325
+4469
 1000
+{
+	"_id" : ObjectId("52b6bb530de7deec5cc0ee2b"),
+	"text" : "@性感玉米 我写了个程序, 当天有北京,天津,杭州,上海,广州的分类信息. http://t.cn/8kjBzrs [哈哈] 点开链接自己找把.",
+	"cid" : NumberLong("3658370915796849"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
+{
+	"_id" : ObjectId("52b6b9560de7deec5cc0eddf"),
+	"text" : "男，88，广州，微信 scokim 求骚扰，求勾搭。。。[泪流满面]",
+	"cid" : NumberLong("3658367840853631"),
+	"uid" : "1659428813",
+	"uname" : "Serializable"
+}
+{
+	"_id" : ObjectId("52b6b9560de7deec5cc0edee"),
+	"text" : "广州/深圳中二青年单身党评论留影，自我介绍就免了。[ok]",
+	"cid" : NumberLong("3658367187266507"),
+	"uid" : "2132533533",
+	"uname" : "wen_zhao一直都在"
+}
 {
 	"_id" : ObjectId("52b6b3e70de7deec5cc0ed34"),
 	"text" : "广东的，目前在广州，有勾搭么！[泪流满面]",
