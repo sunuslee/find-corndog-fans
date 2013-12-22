@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5463
+5638
 1000
+{
+	"_id" : ObjectId("52b6ef7a0de7deec5cc0f279"),
+	"text" : "南京 18 其實我是軟妹無誤（。x。）告訴我南京比較好的電影院有哪些就好!!!!\\'!還有打桌球的地方！！",
+	"cid" : NumberLong("3658423310817105"),
+	"uid" : "3949699341",
+	"uname" : "牧笙人"
+}
+{
+	"_id" : ObjectId("52b6ef7b0de7deec5cc0f2af"),
+	"text" : "北京 上海 杭州 广州 天津 南京 的分类信息汇总: http://t.cn/8kjBzrs 拿去把大家~ 祝你们好运@性感玉米",
+	"cid" : NumberLong("3658420224209922"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
+{
+	"_id" : ObjectId("52b6ef7b0de7deec5cc0f2b3"),
+	"text" : "南京哪裡有電影院[拜拜]",
+	"cid" : NumberLong("3658419426829280"),
+	"uid" : "3949699341",
+	"uname" : "牧笙人"
+}
 {
 	"_id" : ObjectId("52b6e5b30de7deec5cc0f222"),
 	"text" : "回复@lansing-凡:不那么靠谱的男青年 坐标南京 苦逼工科研究僧在读",

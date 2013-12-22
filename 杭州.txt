@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-5463
+5638
 1000
+{
+	"_id" : ObjectId("52b6ef7b0de7deec5cc0f2af"),
+	"text" : "北京 上海 杭州 广州 天津 南京 的分类信息汇总: http://t.cn/8kjBzrs 拿去把大家~ 祝你们好运@性感玉米",
+	"cid" : NumberLong("3658420224209922"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
+{
+	"_id" : ObjectId("52b6ef7b0de7deec5cc0f2c8"),
+	"text" : "回复@兔发树机能:发现一妹子[害羞]同是杭州银",
+	"cid" : NumberLong("3658417787028181"),
+	"uid" : "1241767070",
+	"uname" : "林小白小白"
+}
 {
 	"_id" : ObjectId("52b6e5b30de7deec5cc0f1fd"),
 	"text" : "胖纸 24 杭州汉子。lin_sky1990 工作为卖套子内衣[害羞][害羞]",
