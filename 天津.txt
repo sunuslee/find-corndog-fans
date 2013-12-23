@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6931
+7157
 1000
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f85d"),
+	"text" : "回复@汪soso_临兵斗者皆阵列在前:唔…我也在本校…不过在天津…好远啊感觉",
+	"cid" : NumberLong("3658657558361886"),
+	"uid" : "1938242560",
+	"uname" : "三体人皮儿"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f898"),
+	"text" : "天津土著求勾搭，二次元 三次元通吃。   嗯…个子是180 微信 ，ly1992",
+	"cid" : NumberLong("3658650515896299"),
+	"uid" : "1953457345",
+	"uname" : "阿宇_同学"
+}
 {
 	"_id" : ObjectId("52b7b2a60de7deec5cc0f782"),
 	"text" : "南京 大连 广州 武汉 苏州 石家庄 北京 大理 天津 杭州 深圳 长沙 这几个城市的列表~ 在这儿 去拿吧~ http://t.cn/8kTPoW5",

@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6931
+7157
 1000
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f818"),
+	"text" : "好高的人气，刷微博的大部分都是单身么，求勾搭，深圳，男",
+	"cid" : NumberLong("3658664869338096"),
+	"uid" : "3911057555",
+	"uname" : "憋心螃蟹"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f850"),
+	"text" : "汉子 89年 深圳 maxthon-zx 不知道该如何介绍 不如让我请你吃饭我们慢慢聊好了",
+	"cid" : NumberLong("3658658892598770"),
+	"uid" : "1607118124",
+	"uname" : "汤川学"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f873"),
+	"text" : "清仓处理啦！[话筒]广东深圳，29道年轮，闲置汉子，求妹子带走，可包邮，可面交，不接关公。链接请戳我名字，可先私信，后微信，再短信……微信：xianfeieryi",
+	"cid" : NumberLong("3658655998034866"),
+	"uid" : "1557568100",
+	"uname" : "先飞而已"
+}
 {
 	"_id" : ObjectId("52b7b72b0de7deec5cc0f7c3"),
 	"text" : "妈蛋，工具太便利，不得不也留个爪印了。深圳，男，80末，天蝎宅男。",

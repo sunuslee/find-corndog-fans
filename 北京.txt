@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6931
+7157
 1000
+{
+	"_id" : ObjectId("52b7d2e50de7deec5cc0f812"),
+	"text" : "回复@三体人皮儿:一南一北啊，， 我高考下一个志愿就是北京的大学",
+	"cid" : NumberLong("3658665637042200"),
+	"uid" : "2325726893",
+	"uname" : "汪soso_临兵斗者皆阵列在前"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f81c"),
+	"text" : "88年北京土著 88年的是不是有点太过分了 我看评论都是90后多啊 有没有妹子来搞啊 微信madeinbeijing88927 另外性欲大丁丁",
+	"cid" : NumberLong("3658663908389247"),
+	"uid" : "3099057267",
+	"uname" : "李师傅Miami-Heat"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f838"),
+	"text" : "24金牛男北京工作中",
+	"cid" : NumberLong("3658661018571547"),
+	"uid" : "2871109004",
+	"uname" : "Picasas_壁炉谷"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f855"),
+	"text" : "回复@HOGO桑:台州也会有这个？？元旦我现在计划着去北京[xkl转圈]",
+	"cid" : NumberLong("3658658103844426"),
+	"uid" : "2377241742",
+	"uname" : "无味开水_"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f884"),
+	"text" : "适婚水瓶男，北京的妹纸快来勾搭",
+	"cid" : NumberLong("3658652885852549"),
+	"uid" : "1746120605",
+	"uname" : "我叫阿片"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f88f"),
+	"text" : "女 北京 残疾。我碰碰运气[偷笑]",
+	"cid" : NumberLong("3658651724493941"),
+	"uid" : "3152546461",
+	"uname" : "小迷糊工作室"
+}
 {
 	"_id" : ObjectId("52b7ba8c0de7deec5cc0f7da"),
 	"text" : "周六因为粽子才知道你，直觉上以为你是一个性感的女人。有人加我才知道你是屌丝之王，听说还逆袭了女神。回头我@你 你会回复么。24,160，在北京。27+的在北京的男生，稳重点吧。",

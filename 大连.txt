@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6931
+7157
 1000
+{
+	"_id" : ObjectId("52b7d2e50de7deec5cc0f7f5"),
+	"text" : "大连 男 免费给妹纸拍照片啊啊啊啊啊~~求勾搭啊啊啊~~~ 微信 414494425",
+	"cid" : NumberLong("3658669914382107"),
+	"uid" : "1933451755",
+	"uname" : "武装葫芦娃Sun"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f89f"),
+	"text" : "87年的叔 大连软件园 微信：nathanlol 宅男 第一次评论性玉微博 感到压力好大",
+	"cid" : NumberLong("3658649921109166"),
+	"uid" : "2044662591",
+	"uname" : "白胖胖H"
+}
 {
 	"_id" : ObjectId("52b7b72a0de7deec5cc0f7b6"),
 	"text" : "果然我大连的妹子屈指可数[打哈气]",

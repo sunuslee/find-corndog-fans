@@ -1,8 +1,71 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6931
+7157
 1000
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f831"),
+	"text" : "南京工作 男 通信狗 长三角地区游荡",
+	"cid" : NumberLong("3658661585387078"),
+	"uid" : "1775858561",
+	"uname" : "椰子船长"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f83f"),
+	"text" : "回复@wmhjeremy:南京小伙伴你好~",
+	"cid" : NumberLong("3658660087515919"),
+	"uid" : "2833190770",
+	"uname" : "小霜霜的糖好苦"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f899"),
+	"text" : "妹子，南京人，也在南京读大学，爱美剧，喜欢周杰伦~这回po主不帮舍友找了，自己找~",
+	"cid" : NumberLong("3658650420070596"),
+	"uid" : "2833190770",
+	"uname" : "小霜霜的糖好苦"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f8b6"),
+	"text" : "回复@丹青千秋酿:我这是帮舍友找对象，我是南京的，她是在南京读大学的。。。如果有意向可以加她微信私聊~",
+	"cid" : NumberLong("3658647458642448"),
+	"uid" : "2833190770",
+	"uname" : "小霜霜的糖好苦"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f8b9"),
+	"text" : "23 汉子(纯爷们) 南京 程序员一名(老子不是码农，老子是文艺程序员好不好~~~)",
+	"cid" : NumberLong("3658647207399812"),
+	"uid" : "2943688743",
+	"uname" : "wmhjeremy"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f8bb"),
+	"text" : "回复@小霜霜的糖好苦:南京的小伙伴你好[哈哈]",
+	"cid" : NumberLong("3658647106256422"),
+	"uid" : "3219565275",
+	"uname" : "丹青千秋酿"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f8bc"),
+	"text" : "回复@高高高小丹Fighting:汉子，在南京[哈哈]",
+	"cid" : NumberLong("3658646984598894"),
+	"uid" : "3219565275",
+	"uname" : "丹青千秋酿"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f8bd"),
+	"text" : "妹子，盐城，现在南京，爱好看书听歌，jfy_xixi2222",
+	"cid" : NumberLong("3658646892569823"),
+	"uid" : "2833190770",
+	"uname" : "小霜霜的糖好苦"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f8c3"),
+	"text" : "妹纸…在南京",
+	"cid" : NumberLong("3658646490041583"),
+	"uid" : "1856217560",
+	"uname" : "高高高小丹Fighting"
+}
 {
 	"_id" : ObjectId("52b7b2a50de7deec5cc0f6f8"),
 	"text" : "蓝胖子一枚｀南京｀williamseraph｀看个电影吃个饭，喜欢杰伦老罗科比九把刀。。。",

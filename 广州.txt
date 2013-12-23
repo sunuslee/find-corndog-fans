@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6931
+7157
 1000
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f825"),
+	"text" : "22射手男，广州工作的广西人，微胖不矮，圣诞求约[心]",
+	"cid" : NumberLong("3658662684241470"),
+	"uid" : "1804777505",
+	"uname" : "Modaoji克思克行"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f886"),
+	"text" : "广州直男学生20出头身高178体重两碗饭五官完整性格面瘫，留学党高级搬砖专业掌握德法日韩印度多种口音英语，可辅导英语保论文误拼率不超75%即每个四字词不会错多于一个字母不成功不收费收软妹就好耶",
+	"cid" : NumberLong("3658652705890719"),
+	"uid" : "1969112445",
+	"uname" : "赏面笑一个呗"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f89b"),
+	"text" : "学校广州~家在韶关。大四设计男求个兴趣爱好差不多的软妹。暂无微信。。。",
+	"cid" : NumberLong("3658650327122153"),
+	"uid" : "1671875243",
+	"uname" : "澈寒_"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f89e"),
+	"text" : "广州 22 数码爱好者一枚 在UC苦逼做产品 微信zhanpengliu",
+	"cid" : NumberLong("3658649950014831"),
+	"uid" : "1783759187",
+	"uname" : "核动力罗伊"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f8ba"),
+	"text" : "广州英俊汉子，要找一只萌妹子[bm可爱]，微信：Glen2030",
+	"cid" : NumberLong("3658647156224359"),
+	"uid" : "1843434490",
+	"uname" : "Glen放哥哥"
+}
 {
 	"_id" : ObjectId("52b7b72b0de7deec5cc0f7c6"),
 	"text" : "白羊重口味的软妹子一枚。广州上学中。345160238。",

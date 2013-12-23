@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6931
+7157
 1000
+{
+	"_id" : ObjectId("52b7d2e50de7deec5cc0f800"),
+	"text" : "武汉、可爱的男孩子一枚、",
+	"cid" : NumberLong("3658668036436159"),
+	"uid" : "2462920217",
+	"uname" : "少年卿言"
+}
 {
 	"_id" : ObjectId("52b7b2a50de7deec5cc0f6b6"),
 	"text" : "回复@少年卿言: 武汉那么大那么多人都没有?!!! 擦! 话说你用性玉最新发的东西搜索了没?",

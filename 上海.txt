@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6931
+7157
 1000
+{
+	"_id" : ObjectId("52b7d2e50de7deec5cc0f7f3"),
+	"text" : "[泪]上海91年陌生男纸，只是不想一个人过圣诞",
+	"cid" : NumberLong("3658670456092865"),
+	"uid" : "2491557080",
+	"uname" : "节艹不要了"
+}
+{
+	"_id" : ObjectId("52b7d2e60de7deec5cc0f867"),
+	"text" : "回复@汪soso_临兵斗者皆阵列在前:话说妹子保研还是在上海是吧？",
+	"cid" : NumberLong("3658656556174370"),
+	"uid" : "1938242560",
+	"uname" : "三体人皮儿"
+}
+{
+	"_id" : ObjectId("52b7d2e70de7deec5cc0f8c1"),
+	"text" : "test~test，上海男小韦，专注单身22年[偷笑]",
+	"cid" : NumberLong("3658646774776246"),
+	"uid" : "1341813680",
+	"uname" : "Leo_徐大锤"
+}
 {
 	"_id" : ObjectId("52b7b2a60de7deec5cc0f706"),
 	"text" : "男，上海杨浦，共度圣诞喜迎2014[哈哈]",
