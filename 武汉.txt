@@ -1,8 +1,64 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7766
+7983
 1000
+{
+	"_id" : ObjectId("52b8270d0de7deec5cc0fb45"),
+	"text" : "回复@卖炊饼的徐员外:我也是在武汉读书的襄阳人",
+	"cid" : NumberLong("3658758641118617"),
+	"uid" : "1895548225",
+	"uname" : "蔡什么_"
+}
+{
+	"_id" : ObjectId("52b8270d0de7deec5cc0fb4e"),
+	"text" : "回复@叶面面是糖果控:哇 离武汉好近啊",
+	"cid" : NumberLong("3658757677131575"),
+	"uid" : "1930295333",
+	"uname" : "ST_Bowen"
+}
+{
+	"_id" : ObjectId("52b8270e0de7deec5cc0fb69"),
+	"text" : "回复@ST_Bowen:啊…… 我只是现在在武汉读书而已",
+	"cid" : NumberLong("3658754748739306"),
+	"uid" : "1817335552",
+	"uname" : "叶面面是糖果控"
+}
+{
+	"_id" : ObjectId("52b8270e0de7deec5cc0fb6a"),
+	"text" : "回复@鹿汤圆丶Sama:武汉的嘛哈哈",
+	"cid" : NumberLong("3658754485257707"),
+	"uid" : "1930295333",
+	"uname" : "ST_Bowen"
+}
+{
+	"_id" : ObjectId("52b8270e0de7deec5cc0fb70"),
+	"text" : "回复@叶面面是糖果控:我也是武汉的噢 90的哈哈",
+	"cid" : NumberLong("3658753881276432"),
+	"uid" : "1930295333",
+	"uname" : "ST_Bowen"
+}
+{
+	"_id" : ObjectId("52b827100de7deec5cc0fbcb"),
+	"text" : "那啥，92的汉子！武汉上学的襄阳人，有时候会在十堰待着。工作是在大银川！！！妹子私信我一起黑性玉吧[害羞][害羞][偷笑]",
+	"cid" : NumberLong("3658741985589707"),
+	"uid" : "2985814172",
+	"uname" : "卖炊饼的徐员外"
+}
+{
+	"_id" : ObjectId("52b827100de7deec5cc0fbd0"),
+	"text" : "武汉，183，详情点微薄啊魂淡",
+	"cid" : NumberLong("3658740702734151"),
+	"uid" : "1251155551",
+	"uname" : "尹述恒"
+}
+{
+	"_id" : ObjectId("52b827110de7deec5cc0fbfc"),
+	"text" : "武汉大叔 明天有车震的不",
+	"cid" : NumberLong("3658732259200459"),
+	"uid" : "1034494775",
+	"uname" : "比枯枯灵"
+}
 {
 	"_id" : ObjectId("52b80ad70de7deec5cc0fa52"),
 	"text" : "武汉的。武昌的。92年 的。雌性的。直的。357340714。恩。看电影吃东西 什么的，还是挺不错的。。嗯嗯嗯！",

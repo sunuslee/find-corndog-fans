@@ -1,7 +1,7 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7766
+7983
 1000
 {
 	"_id" : ObjectId("52b80ad70de7deec5cc0fa95"),

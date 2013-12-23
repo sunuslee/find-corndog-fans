@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7766
+7983
 1000
+{
+	"_id" : ObjectId("52b8270e0de7deec5cc0fb72"),
+	"text" : "求个喜欢听李志不玩豆瓣的上海妹子！看看能不能搜检到我这条信息！！！",
+	"cid" : NumberLong("3658753776060936"),
+	"uid" : "2690054881",
+	"uname" : "拉起你的脸皮来"
+}
+{
+	"_id" : ObjectId("52b8270e0de7deec5cc0fb77"),
+	"text" : "回复@小慧慧极度挣扎:是要加上海知乎qq群，然后群里组织大家聚会的",
+	"cid" : NumberLong("3658753427172404"),
+	"uid" : "1894041490",
+	"uname" : "-青城的围脖-"
+}
+{
+	"_id" : ObjectId("52b8270e0de7deec5cc0fb7e"),
+	"text" : "上海粗略的看了一遍！！！都不太靠谱啊！！爱好都是看电影 听音乐 进去一看听得音乐全是我没听过的流行音乐 怎么下手啊。。。",
+	"cid" : NumberLong("3658752580572155"),
+	"uid" : "2690054881",
+	"uname" : "拉起你的脸皮来"
+}
+{
+	"_id" : ObjectId("52b827100de7deec5cc0fbca"),
+	"text" : "好福利！[爱你]大龄单身大妹子在上海，微信magima[爱你]",
+	"cid" : NumberLong("3658742195343341"),
+	"uid" : "1652158020",
+	"uname" : "莫逆无为"
+}
 {
 	"_id" : ObjectId("52b80ad60de7deec5cc0f9fc"),
 	"text" : "有木有在上海的妹子替我考高数a2[泪]",

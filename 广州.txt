@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7766
+7983
 1000
+{
+	"_id" : ObjectId("52b8270e0de7deec5cc0fb7c"),
+	"text" : "男 广州 微信：tim-chow",
+	"cid" : NumberLong("3658752966517045"),
+	"uid" : "1686397401",
+	"uname" : "周大tim"
+}
+{
+	"_id" : ObjectId("52b8270f0de7deec5cc0fbaa"),
+	"text" : "广州 93 可清新可重口•﹏• 微信rocken_chan",
+	"cid" : NumberLong("3658747073568344"),
+	"uid" : "1736823242",
+	"uname" : "陈相反"
+}
+{
+	"_id" : ObjectId("52b827100de7deec5cc0fbd4"),
+	"text" : "男21广州，来个活的[生病]",
+	"cid" : NumberLong("3658740437691079"),
+	"uid" : "1764126974",
+	"uname" : "Neet_ss"
+}
+{
+	"_id" : ObjectId("52b827100de7deec5cc0fbe8"),
+	"text" : "经常掉节操的软妹纸。广州读书中。微信：345160238",
+	"cid" : NumberLong("3658736470474097"),
+	"uid" : "1705440834",
+	"uname" : "变异娃_yuyinghonG"
+}
 {
 	"_id" : ObjectId("52b80ad60de7deec5cc0fa21"),
 	"text" : "回复@赏面笑一个呗: @HELLO嘉颖 @chanchanyeah  广州妹子大概。。",
