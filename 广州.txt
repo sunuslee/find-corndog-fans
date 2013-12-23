@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6840
+6904
 1000
+{
+	"_id" : ObjectId("52b7b72b0de7deec5cc0f7c6"),
+	"text" : "白羊重口味的软妹子一枚。广州上学中。345160238。",
+	"cid" : NumberLong("3658633550739035"),
+	"uid" : "1705440834",
+	"uname" : "变异娃_yuyinghonG"
+}
 {
 	"_id" : ObjectId("52b7b2a50de7deec5cc0f6e9"),
 	"text" : "91年的，视频后期的苦逼，有广州的妹子吗.. 微信zweijun",
