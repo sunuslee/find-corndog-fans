@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7463
+7766
 1000
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa50"),
+	"text" : "回复@汪soso_临兵斗者皆阵列在前:因为天津还有海啊……所以……一时糊涂……结果……妈蛋…这雪也没有…海也好远……::>_<::",
+	"cid" : NumberLong("3658725007306460"),
+	"uid" : "1938242560",
+	"uname" : "三体人皮儿"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa6c"),
+	"text" : "回复@汪soso_临兵斗者皆阵列在前:噗……我会跟你说我来南开的一大原因就是因为天津会下雪么？结果一个冬天就能下一场……妈蛋……",
+	"cid" : NumberLong("3658723409275020"),
+	"uid" : "1938242560",
+	"uname" : "三体人皮儿"
+}
+{
+	"_id" : ObjectId("52b80ad90de7deec5cc0fb05"),
+	"text" : "回复@猫猫猫儿君:活捉天津软妹一枚!",
+	"cid" : NumberLong("3658713531113449"),
+	"uid" : "1165468137",
+	"uname" : "有顶猫家族"
+}
 {
 	"_id" : ObjectId("52b7f7250de7deec5cc0f9d2"),
 	"text" : "妹子 天津 danceluo 介绍自己 - -。。嗯……啊……你好（。。好奇怪啊！！",

@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7463
+7766
 1000
+{
+	"_id" : ObjectId("52b80ad60de7deec5cc0f9fb"),
+	"text" : "汉子，北京，求妹子勾搭。实名微博我不能说胡话骗人，但我确实挺爱玩，运动电影音乐话剧相声段子无所不爱。ck16ck16",
+	"cid" : NumberLong("3658731684850827"),
+	"uid" : "1414768660",
+	"uname" : "崔小凯和扎小啤"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa6b"),
+	"text" : "[神马] 圣诞福利呀~ 坐标北京。88上班族。微号feng262406 [嘻嘻] 远离小米。",
+	"cid" : NumberLong("3658723488979409"),
+	"uid" : "2474598087",
+	"uname" : "丶张益达v_"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0fabd"),
+	"text" : "北京 182 单身的双子 求妹子勾搭",
+	"cid" : NumberLong("3658718950227043"),
+	"uid" : "2759324565",
+	"uname" : "热尼亚-默"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0facd"),
+	"text" : "回复@我叫刘大柱:嗯 都在北京 对么?",
+	"cid" : NumberLong("3658718069359510"),
+	"uid" : "1823782543",
+	"uname" : "跞晨_绝缘体"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0faeb"),
+	"text" : "汉子 北京 微信tenacious_u 身长182体重77研究生在读找工作中，爱看点漫画死神火影银魂，求妹纸一起打羽毛球游泳吃麻辣香锅，闷骚宅微信有真相",
+	"cid" : NumberLong("3658715351973520"),
+	"uid" : "1718570172",
+	"uname" : "Tenacious_U"
+}
 {
 	"_id" : ObjectId("52b7ecae0de7deec5cc0f8fa"),
 	"text" : "北京 23岁 摄影爱好者 有愿意被射的吗！",

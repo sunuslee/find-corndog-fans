@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7463
+7766
 1000
+{
+	"_id" : ObjectId("52b80ad60de7deec5cc0fa1a"),
+	"text" : "回复@小霜霜的糖好苦:上海FDU的→_→南京朋友多随口一问[挖鼻屎]",
+	"cid" : NumberLong("3658729717385621"),
+	"uid" : "3177683072",
+	"uname" : "叫我阿阿阿黄"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa42"),
+	"text" : "回复@小霜霜的糖好苦:阿阿阿……南京哪个大学啊啊[呵呵]",
+	"cid" : NumberLong("3658726651359053"),
+	"uid" : "3177683072",
+	"uname" : "叫我阿阿阿黄"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa6f"),
+	"text" : "回复@空空空空姑娘:╮(╯▽╰)╭妹子你不仅看一半还少打字啊。。。不准备呆在南京，回老家~",
+	"cid" : NumberLong("3658723157835832"),
+	"uid" : "2637534731",
+	"uname" : "你就是个磨人的小魂淡_美洲狼"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa8b"),
+	"text" : "汉子，在南京读大学，大四狗，无锡人，91年，在家等实习中。。。有点无聊。。。标准宅，可基可腐。。。微信什么的。。。私信吧。。。",
+	"cid" : NumberLong("3658721853070672"),
+	"uid" : "2637534731",
+	"uname" : "你就是个磨人的小魂淡_美洲狼"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0fadb"),
+	"text" : "南京江宁 26  心行者Mass 一起吃个饭吧 昨天冬至四处找朋友吃饭 没找到",
+	"cid" : NumberLong("3658716773686438"),
+	"uid" : "1813172502",
+	"uname" : "MasstonesK"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0faea"),
+	"text" : "南京 90 民族汉 性别汉 微信：songpeng620810",
+	"cid" : NumberLong("3658715368752993"),
+	"uid" : "1356867313",
+	"uname" : "伦敦公墓"
+}
 {
 	"_id" : ObjectId("52b7f7250de7deec5cc0f9f5"),
 	"text" : "男 南京 Jason120445210 87年剩男积极响应号召",

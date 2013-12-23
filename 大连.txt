@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7463
+7766
 1000
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa95"),
+	"text" : "大连的汉子，26，51090461",
+	"cid" : NumberLong("3658721366801170"),
+	"uid" : "1773634104",
+	"uname" : "微亮之波"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0faf0"),
+	"text" : "嗯…没抱希望…女汉子   大连   脾气不好的蛇精病    dashuang0613",
+	"cid" : NumberLong("3658715213746101"),
+	"uid" : "2405845781",
+	"uname" : "大双是个口无遮拦的蛇精病"
+}
+{
+	"_id" : ObjectId("52b80ad90de7deec5cc0fb15"),
+	"text" : "有大连妹纸不？微信cristiano_qln9 求拯救。。。",
+	"cid" : NumberLong("3658711388030798"),
+	"uid" : "1826875275",
+	"uname" : "Django_sandman"
+}
 {
 	"_id" : ObjectId("52b7ecae0de7deec5cc0f90b"),
 	"text" : "帝都 175的大连女汉纸一枚 性格时而汉子时而女子 喂 有人吗[泪]",

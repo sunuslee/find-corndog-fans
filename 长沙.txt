@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7463
+7766
 1000
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa5e"),
+	"text" : "84年汉子，长沙人，欢迎来勾搭",
+	"cid" : NumberLong("3658724101323608"),
+	"uid" : "1866103215",
+	"uname" : "桃花岛上烤鸡翅的小窝"
+}
 {
 	"_id" : ObjectId("52b7f7250de7deec5cc0f9b8"),
 	"text" : "长沙，86的蜀黍，求异性伙伴看电影、话剧。",

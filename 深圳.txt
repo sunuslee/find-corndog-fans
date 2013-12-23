@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7463
+7766
 1000
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa5b"),
+	"text" : "深圳汉子18岁广州上学中 会暖床会卖萌",
+	"cid" : NumberLong("3658724197931014"),
+	"uid" : "1865353682",
+	"uname" : "幹兹八木木"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0faae"),
+	"text" : "广东惠州银，85年蜀黍，在深圳工作，剩蛋有木有想约看个电影的[酷]",
+	"cid" : NumberLong("3658719730722517"),
+	"uid" : "1642922355",
+	"uname" : "Ye_Balla"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0faf2"),
+	"text" : "我也来一发！深圳天平汉子！pnpn364~",
+	"cid" : NumberLong("3658715129845527"),
+	"uid" : "1752454322",
+	"uname" : "虾里神花生B"
+}
+{
+	"_id" : ObjectId("52b80ad90de7deec5cc0fb0e"),
+	"text" : "深圳intj",
+	"cid" : NumberLong("3658712483097822"),
+	"uid" : "1065401074",
+	"uname" : "兲槽人"
+}
 {
 	"_id" : ObjectId("52b7f7250de7deec5cc0f9cb"),
 	"text" : "妹子 深圳 yeke707  19岁 就留个试试=o=",

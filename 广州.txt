@@ -1,8 +1,64 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7463
+7766
 1000
+{
+	"_id" : ObjectId("52b80ad60de7deec5cc0fa21"),
+	"text" : "回复@赏面笑一个呗: @HELLO嘉颖 @chanchanyeah  广州妹子大概。。",
+	"cid" : NumberLong("3658729314063019"),
+	"uid" : "2276339287",
+	"uname" : "Yuta君"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa2c"),
+	"text" : "汉子 广州东莞 微信号：raku_1 既潮又宅",
+	"cid" : NumberLong("3658728706787422"),
+	"uid" : "1825851102",
+	"uname" : "一洛_"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa34"),
+	"text" : "回复@Tony-Mr:是啊都是广州，没有多少个惠州的啊ˊ_>ˋ",
+	"cid" : NumberLong("3658728132070546"),
+	"uid" : "1621862671",
+	"uname" : "AIMERLIU_"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa5b"),
+	"text" : "深圳汉子18岁广州上学中 会暖床会卖萌",
+	"cid" : NumberLong("3658724197931014"),
+	"uid" : "1865353682",
+	"uname" : "幹兹八木木"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa7b"),
+	"text" : "90年汉子，飞天狗一只，在广州，求女王一枚，微信请私情",
+	"cid" : NumberLong("3658722641847843"),
+	"uid" : "1819203935",
+	"uname" : "Numb_MrK"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa83"),
+	"text" : "广州 女 167高",
+	"cid" : NumberLong("3658722281077579"),
+	"uid" : "1773251170",
+	"uname" : "草莓莓V"
+}
+{
+	"_id" : ObjectId("52b80ad70de7deec5cc0fa92"),
+	"text" : "回复@变异娃_yuyinghonG:难得找到个在广州的妹子[嘻嘻]",
+	"cid" : NumberLong("3658721501055457"),
+	"uid" : "1892865260",
+	"uname" : "freegol"
+}
+{
+	"_id" : ObjectId("52b80ad80de7deec5cc0faa1"),
+	"text" : "汉子 广州 微信号：msz010 86金牛老好人，身高不高肥宅，性格比较和蔼，但情感方面反应木讷，工作稳定饿不死，有房子，求意向是结婚的二次元妹子_(:з」∠)_",
+	"cid" : NumberLong("3658720762896389"),
+	"uid" : "1917233527",
+	"uname" : "御姐大好"
+}
 {
 	"_id" : ObjectId("52b7f7250de7deec5cc0f9c5"),
 	"text" : "广州，汉子，24...剩蛋找人捡肥皂[兔子]",
@@ -142,6 +198,13 @@ switched to db wbdb
 	"cid" : NumberLong("3658512452775577"),
 	"uid" : "1969112445",
 	"uname" : "赏面笑一个呗"
+}
+{
+	"_id" : ObjectId("52b80ae30de7deec5cc0fb1c"),
+	"text" : "回复@SteVenXX_KAWS:可♂爱的男孩子也很受欢迎的啦(๑´•ω • `๑)可惜我不是广州的。。",
+	"cid" : NumberLong("3658492793240339"),
+	"uid" : "2276339287",
+	"uname" : "Yuta君"
 }
 {
 	"_id" : ObjectId("52b79c1c0de7deec5cc0f66c"),
