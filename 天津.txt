@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7983
+8197
 1000
+{
+	"_id" : ObjectId("52b84e720de7deec5cc0fc07"),
+	"text" : "都闪开！让我来解救天津大龄女汉子们！",
+	"cid" : NumberLong("3658803008001164"),
+	"uid" : "1705927520",
+	"uname" : "有过有错"
+}
+{
+	"_id" : ObjectId("52b84e730de7deec5cc0fc87"),
+	"text" : "天津汉子，二次元，三次元通吃 个头是180 求本地妹子。。。   微信。 ly1992",
+	"cid" : NumberLong("3658775225402357"),
+	"uid" : "1953457345",
+	"uname" : "阿宇_同学"
+}
 {
 	"_id" : ObjectId("52b80ad70de7deec5cc0fa50"),
 	"text" : "回复@汪soso_临兵斗者皆阵列在前:因为天津还有海啊……所以……一时糊涂……结果……妈蛋…这雪也没有…海也好远……::>_<::",

@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7983
+8197
 1000
+{
+	"_id" : ObjectId("52b84e720de7deec5cc0fc41"),
+	"text" : "深圳 22 男",
+	"cid" : NumberLong("3658787753941962"),
+	"uid" : "1859924774",
+	"uname" : "Petric_Hwang"
+}
 {
 	"_id" : ObjectId("52b8270f0de7deec5cc0fbb5"),
 	"text" : "深圳来个妹纸吧= =",

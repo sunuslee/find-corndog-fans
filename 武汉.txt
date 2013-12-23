@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7983
+8197
 1000
+{
+	"_id" : ObjectId("52b84e720de7deec5cc0fc21"),
+	"text" : "凑热闹，坐标 武汉 91 软妹子一枚",
+	"cid" : NumberLong("3658796209623026"),
+	"uid" : "1770681944",
+	"uname" : "人懒嘴馋爱花钱"
+}
+{
+	"_id" : ObjectId("52b84e730de7deec5cc0fcb0"),
+	"text" : "@蔡什么_ 武汉读书 襄阳五中毕业 而且....我也姓蔡",
+	"cid" : NumberLong("3658769018562251"),
+	"uid" : "2239260632",
+	"uname" : "看肉徒伤悲"
+}
+{
+	"_id" : ObjectId("52b84e730de7deec5cc0fcca"),
+	"text" : "武汉襄阳人大三学渣刚失恋奢求勾搭聊聊也好→_→",
+	"cid" : NumberLong("3658764127990566"),
+	"uid" : "2239260632",
+	"uname" : "看肉徒伤悲"
+}
 {
 	"_id" : ObjectId("52b8270d0de7deec5cc0fb45"),
 	"text" : "回复@卖炊饼的徐员外:我也是在武汉读书的襄阳人",

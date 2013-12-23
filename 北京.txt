@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7983
+8197
 1000
+{
+	"_id" : ObjectId("52b84e730de7deec5cc0fca4"),
+	"text" : "汉子，北京，微信号：fengliuleile 求妹子啊",
+	"cid" : NumberLong("3658771723412026"),
+	"uid" : "1670397880",
+	"uname" : "风流泪了"
+}
+{
+	"_id" : ObjectId("52b84e730de7deec5cc0fcc6"),
+	"text" : "汉子 河北燕郊 微信号w137361464 身高178人品好喜欢WOW 在燕郊上学距离北京不远 经常去玩。我来勾搭一下燕郊或者北京的妹子一起玩我已经好久没有妹子勾搭过了！",
+	"cid" : NumberLong("3658765242587028"),
+	"uid" : "2180246277",
+	"uname" : "slient_Crazy"
+}
 {
 	"_id" : ObjectId("52b80ad60de7deec5cc0f9fb"),
 	"text" : "汉子，北京，求妹子勾搭。实名微博我不能说胡话骗人，但我确实挺爱玩，运动电影音乐话剧相声段子无所不爱。ck16ck16",

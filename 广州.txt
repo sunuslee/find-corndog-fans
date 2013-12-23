@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7983
+8197
 1000
+{
+	"_id" : ObjectId("52b84e720de7deec5cc0fc53"),
+	"text" : "21广州😠",
+	"cid" : NumberLong("3658783442466644"),
+	"uid" : "2021619347",
+	"uname" : "Xxxxx丶徐健"
+}
+{
+	"_id" : ObjectId("52b84e720de7deec5cc0fc5d"),
+	"text" : "回复@胖哥依然小清新:这一堆瓜子汽水还挺重的  伞就不用了  尼玛这几天1广州真是冻死人的节奏",
+	"cid" : NumberLong("3658781559337778"),
+	"uid" : "2044557090",
+	"uname" : "娃娃鱼不是鱼"
+}
+{
+	"_id" : ObjectId("52b84e730de7deec5cc0fc90"),
+	"text" : "回复@胖哥依然小清新:不不不  她人在广州  不适合你",
+	"cid" : NumberLong("3658774432344606"),
+	"uid" : "2044557090",
+	"uname" : "娃娃鱼不是鱼"
+}
 {
 	"_id" : ObjectId("52b8270e0de7deec5cc0fb7c"),
 	"text" : "男 广州 微信：tim-chow",
