@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7391
+7463
 1000
+{
+	"_id" : ObjectId("52b7f7250de7deec5cc0f9cb"),
+	"text" : "妹子 深圳 yeke707  19岁 就留个试试=o=",
+	"cid" : NumberLong("3658705557990483"),
+	"uid" : "1737365290",
+	"uname" : "耶耶耶葉小能吔"
+}
+{
+	"_id" : ObjectId("52b7f7250de7deec5cc0f9dc"),
+	"text" : "深圳26K男屌丝 提前求被锁定平安夜和跨年倒数 微信:Robin911",
+	"cid" : NumberLong("3658702613837490"),
+	"uid" : "1828374500",
+	"uname" : "Robin_1004"
+}
+{
+	"_id" : ObjectId("52b7f7250de7deec5cc0f9ea"),
+	"text" : "回复@想要去流浪的某媛:哟呵，比我小一岁嘛。我明年应该会好好待在深圳的哦。。。提醒下，在下乃大胖纸一枚！",
+	"cid" : NumberLong("3658700382556203"),
+	"uid" : "1902494181",
+	"uname" : "熊猫三分熟"
+}
 {
 	"_id" : ObjectId("52b7ecae0de7deec5cc0f8fc"),
 	"text" : "噗，凑个热闹，深圳176汉子求软妹抱团圣诞取暖",

@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7391
+7463
 1000
+{
+	"_id" : ObjectId("52b7f7250de7deec5cc0f9bb"),
+	"text" : "回复@三体人皮儿:上海死冷没暖气。。。。",
+	"cid" : NumberLong("3658708401586496"),
+	"uid" : "2325726893",
+	"uname" : "汪soso_临兵斗者皆阵列在前"
+}
+{
+	"_id" : ObjectId("52b7f7250de7deec5cc0f9dd"),
+	"text" : "汉子/上海/微信phecla 今年本命年。产品狗，创业中。当过老师，做过人事，搞过服务业管理。爱好XBOX WII对任天堂的”全家乐“概念很执迷，比较喜欢看轻小说，ACG取向《蜂蜜与四叶草》，运动取向壁球、跑步，游戏向ARPG类都爱的不行了。然后？然后说说习惯吧，爱吃辣，强迫症，烟酒不粘。",
+	"cid" : NumberLong("3658702492169273"),
+	"uid" : "2254136392",
+	"uname" : "RB-79"
+}
+{
+	"_id" : ObjectId("52b7f7250de7deec5cc0f9e8"),
+	"text" : "反正26号就关了，发个玩玩。现居上海，22，男，不高，长相一般，没钱，但舍得花。略闷骚却有内涵（基友说的），爱看书，WOW，外滩吹风（昨天的外滩真特么冷，有个在搭的舞台，看来有活动，下周去瞅瞅）。",
+	"cid" : NumberLong("3658700831292250"),
+	"uid" : "1949206137",
+	"uname" : "梦断丶成空"
+}
 {
 	"_id" : ObjectId("52b7ecae0de7deec5cc0f910"),
 	"text" : "男，上海，微信号Slowly_Face 求调戏",

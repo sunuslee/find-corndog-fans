@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7391
+7463
 1000
+{
+	"_id" : ObjectId("52b7f7250de7deec5cc0f9c5"),
+	"text" : "广州，汉子，24...剩蛋找人捡肥皂[兔子]",
+	"cid" : NumberLong("3658706187596469"),
+	"uid" : "1244855290",
+	"uname" : "RobinKill"
+}
+{
+	"_id" : ObjectId("52b7f7250de7deec5cc0f9f3"),
+	"text" : "91年广州汉子求勾搭，本人变态奇葩各种闷骚谢谢",
+	"cid" : NumberLong("3658699518650022"),
+	"uid" : "1805020260",
+	"uname" : "逺東業"
+}
+{
+	"_id" : ObjectId("52b7f7260de7deec5cc0f9f8"),
+	"text" : "来一发！广州工作浙江血统北京生长的汉子，91年，185cm，微信381204943，同城软妹有木有啊，似乎来晚了[晕][晕]",
+	"cid" : NumberLong("3658694502227193"),
+	"uid" : "1844034353",
+	"uname" : "吴裕望"
+}
 {
 	"_id" : ObjectId("52b7ecae0de7deec5cc0f923"),
 	"text" : "[泪流满面]软妹子。经常掉节操。在广州读书。",
