@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6211
+6605
 1000
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f632"),
+	"text" : "180长沙汉子 93的。。。求脱团",
+	"cid" : NumberLong("3658505683033470"),
+	"uid" : "2273459704",
+	"uname" : "-薯片哥-"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f633"),
+	"text" : "回复@Yuta君:长沙的有吗？。。",
+	"cid" : NumberLong("3658505187834932"),
+	"uid" : "2273459704",
+	"uname" : "-薯片哥-"
+}
 {
 	"_id" : ObjectId("52b6fa520de7deec5cc0f36a"),
 	"text" : "长沙男，21，求异性小伙伴看电影，吃大餐╭(╯ε╰)╮打发无聊时光",

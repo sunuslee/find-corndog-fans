@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6211
+6605
 1000
+{
+	"_id" : ObjectId("52b79c190de7deec5cc0f58d"),
+	"text" : "回复@小慧慧极度挣扎:噗〜真的有妹子回我就已经很开心了，话说你有参加知乎上海的聚会嘛",
+	"cid" : NumberLong("3658600339574805"),
+	"uid" : "1894041490",
+	"uname" : "-青城的围脖-"
+}
+{
+	"_id" : ObjectId("52b79c1a0de7deec5cc0f5c5"),
+	"text" : "呵呵，上海的到底有没有，要帅哥，丑男别加",
+	"cid" : NumberLong("3658588763929336"),
+	"uid" : "1890285504",
+	"uname" : "Suede_s"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f628"),
+	"text" : "妹子 上海 其实我喜欢柏拉图",
+	"cid" : NumberLong("3658524892872301"),
+	"uid" : "1759912955",
+	"uname" : "小慧慧极度挣扎"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f638"),
+	"text" : "汉子 人在上海 微信搜so89898 程序员一只，单身多年，武汉人，很闲……",
+	"cid" : NumberLong("3658498372343298"),
+	"uid" : "1672691382",
+	"uname" : "so898"
+}
+{
+	"_id" : ObjectId("52b79c1c0de7deec5cc0f66d"),
+	"text" : "睡前留个试试……妹子在上海，95的，理智、不反转，微信搜huijie_Lee～～～晚安，各位～～～",
+	"cid" : NumberLong("3658483662632700"),
+	"uid" : "2973822741",
+	"uname" : "乌拉拉乌拉拉呜噜"
+}
 {
 	"_id" : ObjectId("52b71a100de7deec5cc0f4f1"),
 	"text" : "上海的，25岁，爱知乎爱果壳爱读书-。求上海的165以下的软妹子，我是认真的[xkl转圈]。微信：weiboleo2099",

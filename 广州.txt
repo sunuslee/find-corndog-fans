@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6211
+6605
 1000
+{
+	"_id" : ObjectId("52b79c180de7deec5cc0f518"),
+	"text" : "回复@蕉蕉蕉你妹丶:我在广州呆了7年，今年才回家的- -",
+	"cid" : NumberLong("3658612826257822"),
+	"uid" : "1298743043",
+	"uname" : "文彬是好人卡专业户"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f62e"),
+	"text" : "回复@Yuta君:我要广州的！你不是搬运工你是活雷锋！",
+	"cid" : NumberLong("3658513786401544"),
+	"uid" : "1969112445",
+	"uname" : "赏面笑一个呗"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f62f"),
+	"text" : "回复@April_Cuihua:广州的冒泡加一，看到你的名字也笑了好久，翠花请给我上叠酸菜哈哈",
+	"cid" : NumberLong("3658512452775577"),
+	"uid" : "1969112445",
+	"uname" : "赏面笑一个呗"
+}
+{
+	"_id" : ObjectId("52b79c1c0de7deec5cc0f66c"),
+	"text" : "回复@栗子091031:武汉人现在广州上大学[呵呵]",
+	"cid" : NumberLong("3658483801480167"),
+	"uid" : "1943653203",
+	"uname" : "邱莹龙"
+}
 {
 	"_id" : ObjectId("52b71a100de7deec5cc0f4e4"),
 	"text" : "回复@Ryan向南: @冷静的喵喵 广州 女 大学生 @见字如面Xjun 这个在广州准备联考。。",

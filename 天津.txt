@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6211
+6605
 1000
+{
+	"_id" : ObjectId("52b79c1a0de7deec5cc0f60e"),
+	"text" : "回复@有顶猫家族:= =......→天津的@我就是蛋蛋酱 →云南的@霹雳颗粒",
+	"cid" : NumberLong("3658562716591882"),
+	"uid" : "2462920217",
+	"uname" : "少年卿言"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f63b"),
+	"text" : "回复@阿宇_同学:好妒忌天津的妹紙..",
+	"cid" : NumberLong("3658496719528927"),
+	"uid" : "1857704990",
+	"uname" : "April_Cuihua"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f663"),
+	"text" : "回复@石石石石大頭:看到天津巨蟹妹子一枚..有兴趣留下微信号么.. 或者加我 “ly1992”",
+	"cid" : NumberLong("3658486875236653"),
+	"uid" : "1953457345",
+	"uname" : "阿宇_同学"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f665"),
+	"text" : "免费为 天津地区的妹子 提供 苹果产品的ios7 完美越狱，本人在塘沽区.. 有兴趣的联系我 微信“ly1992”...",
+	"cid" : NumberLong("3658486174760881"),
+	"uid" : "1953457345",
+	"uname" : "阿宇_同学"
+}
+{
+	"_id" : ObjectId("52b79c1c0de7deec5cc0f66a"),
+	"text" : "求天津妹子， 异地恋什么的最讨厌了...二次元三次元通吃，个子是 180 嗯..... 微信\"ly1992\" 求勾搭...",
+	"cid" : NumberLong("3658484019066326"),
+	"uid" : "1953457345",
+	"uname" : "阿宇_同学"
+}
+{
+	"_id" : ObjectId("52b79c1c0de7deec5cc0f672"),
+	"text" : "业界良心 。男，天津，二次元三次元通吃， 微信\"ly1992\" 求勾搭...",
+	"cid" : NumberLong("3658482299105414"),
+	"uid" : "1953457345",
+	"uname" : "阿宇_同学"
+}
 {
 	"_id" : ObjectId("52b71a100de7deec5cc0f506"),
 	"text" : "在天津上大学的云南汉子一枚，求个软妹子一起跨年 rua4319",

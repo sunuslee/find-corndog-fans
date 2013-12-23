@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6211
+6605
 1000
+{
+	"_id" : ObjectId("52b79c1a0de7deec5cc0f5da"),
+	"text" : "回复@西国的绅士向渣男:→_→反正我是没看到武汉的还比我大的.....",
+	"cid" : NumberLong("3658582673258613"),
+	"uid" : "2462920217",
+	"uname" : "少年卿言"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f61b"),
+	"text" : "回复@iIllustrious:[呵呵]武汉",
+	"cid" : NumberLong("3658560749430883"),
+	"uid" : "2462920217",
+	"uname" : "少年卿言"
+}
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f638"),
+	"text" : "汉子 人在上海 微信搜so89898 程序员一只，单身多年，武汉人，很闲……",
+	"cid" : NumberLong("3658498372343298"),
+	"uid" : "1672691382",
+	"uname" : "so898"
+}
+{
+	"_id" : ObjectId("52b79c1c0de7deec5cc0f66c"),
+	"text" : "回复@栗子091031:武汉人现在广州上大学[呵呵]",
+	"cid" : NumberLong("3658483801480167"),
+	"uid" : "1943653203",
+	"uname" : "邱莹龙"
+}
 {
 	"_id" : ObjectId("52b713140de7deec5cc0f401"),
 	"text" : "回复@蔡什么_:武汉24男。",

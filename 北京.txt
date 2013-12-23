@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6211
+6605
 1000
+{
+	"_id" : ObjectId("52b79c1b0de7deec5cc0f62b"),
+	"text" : "北京 男 纯胡闹～愿意单纯交朋友的私信吧♪(´▽｀) ",
+	"cid" : NumberLong("3658518106159942"),
+	"uid" : "1645481107",
+	"uname" : "蒲没六_Mr-Fate"
+}
 {
 	"_id" : ObjectId("52b71a100de7deec5cc0f4e0"),
 	"text" : "北京身高189汉子重金求包养~ 微信17276694",

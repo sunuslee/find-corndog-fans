@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6211
+6605
 1000
+{
+	"_id" : ObjectId("52b79c180de7deec5cc0f540"),
+	"text" : "杭州 男 东北银~ 爱看小说,电商~  征求女汉子做朋友（┬＿┬）",
+	"cid" : NumberLong("3658609671668990"),
+	"uid" : "1080552231",
+	"uname" : "永恒类星体"
+}
+{
+	"_id" : ObjectId("52b79c190de7deec5cc0f567"),
+	"text" : "杭州汉子，25岁，飘过",
+	"cid" : NumberLong("3658606157707459"),
+	"uid" : "1236818333",
+	"uname" : "Cricket_Bang"
+}
+{
+	"_id" : ObjectId("52b79c1a0de7deec5cc0f5c9"),
+	"text" : "回复@HELLO嘉颖:输入法…虽然远认识一下也不错 欢迎以后来杭州玩哈哈",
+	"cid" : NumberLong("3658588046490550"),
+	"uid" : "1266553182",
+	"uname" : "语言-Rolling"
+}
+{
+	"_id" : ObjectId("52b79c1a0de7deec5cc0f5e2"),
+	"text" : "杭州男90年 187 设计师 杭州妹纸呢",
+	"cid" : NumberLong("3658581356432288"),
+	"uid" : "1266553182",
+	"uname" : "语言-Rolling"
+}
+{
+	"_id" : ObjectId("52b79c1c0de7deec5cc0f66f"),
+	"text" : "哈哈，杭州的童鞋儿加我威信，咱建个群：xielihangmage",
+	"cid" : NumberLong("3658483452812351"),
+	"uid" : "2189849352",
+	"uname" : "马了个哥的ltk"
+}
+{
+	"_id" : ObjectId("52b79c1c0de7deec5cc0f68e"),
+	"text" : "妹子 杭州人 在金华～好无聊～好无聊～好无聊～[右哼哼]",
+	"cid" : NumberLong("3658474250632977"),
+	"uid" : "1691551157",
+	"uname" : "阿燕怪咖咖咖"
+}
 {
 	"_id" : ObjectId("52b713150de7deec5cc0f44b"),
 	"text" : "目前在杭州工作的汉子，24岁，之后准备定居杭州了。有没有性欲的杭州妹纸粉呀！",
