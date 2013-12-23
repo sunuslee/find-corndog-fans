@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f923"),
+	"text" : "[泪流满面]软妹子。经常掉节操。在广州读书。",
+	"cid" : NumberLong("3658693910729550"),
+	"uid" : "1705440834",
+	"uname" : "变异娃_yuyinghonG"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f929"),
+	"text" : "现在应该没那么多人评论了吧，我来一发，男，广州，24岁，设计师一枚。微信号sweelim",
+	"cid" : NumberLong("3658693503645731"),
+	"uid" : "1871434740",
+	"uname" : "深井冰森林"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f969"),
+	"text" : "男，25，广州，微信ID：knoxchan",
+	"cid" : NumberLong("3658689296999876"),
+	"uid" : "1825860204",
+	"uname" : "南雅彦"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f96e"),
+	"text" : "什么？还有这样的活动！在广州或者过年回长沙的妹子有没有。求勾搭，么么哒",
+	"cid" : NumberLong("3658689103853185"),
+	"uid" : "3190524791",
+	"uname" : "_捉影"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f984"),
+	"text" : "广州大三汉子路过，对面的喷油你们好吗",
+	"cid" : NumberLong("3658687975917447"),
+	"uid" : "1689167637",
+	"uname" : "Frank肥球"
+}
 {
 	"_id" : ObjectId("52b7d2e60de7deec5cc0f825"),
 	"text" : "22射手男，广州工作的广西人，微胖不矮，圣诞求约[心]",

@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f8f8"),
+	"text" : "回复@少年卿言:我也就发现了你一个武汉妹子…",
+	"cid" : NumberLong("3658697655654207"),
+	"uid" : "1739868814",
+	"uname" : "王野合"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f949"),
+	"text" : "武汉汉子求勾搭求勾搭，男女不限[馋嘴]",
+	"cid" : NumberLong("3658691561349452"),
+	"uid" : "1739868814",
+	"uname" : "王野合"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f94c"),
+	"text" : "坐标武汉 22身高183 体重76爱健身爱音乐爱LOL 求武汉妹纸",
+	"cid" : NumberLong("3658691309656623"),
+	"uid" : "2166583741",
+	"uname" : "我觉得还是不要猥琐的好啊魂淡"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f955"),
+	"text" : "回复@少年卿言:可爱的男孩子你好，同武汉，真正的男孩子",
+	"cid" : NumberLong("3658690768916328"),
+	"uid" : "1739868814",
+	"uname" : "王野合"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f96c"),
+	"text" : "武汉，20。",
+	"cid" : NumberLong("3658689245985739"),
+	"uid" : "1914962220",
+	"uname" : "竹下辉火"
+}
 {
 	"_id" : ObjectId("52b7d2e50de7deec5cc0f800"),
 	"text" : "武汉、可爱的男孩子一枚、",

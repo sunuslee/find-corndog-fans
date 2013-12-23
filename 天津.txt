@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f993"),
+	"text" : "天津  大三 21  男  微信xastle",
+	"cid" : NumberLong("3658687165540350"),
+	"uid" : "2159341521",
+	"uname" : "XXAa_"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f9aa"),
+	"text" : "求软妹纸聊天跨年,坐标天津,放假回家云南的大学狗,二三次元都可聊开,可清新可奔放,rua4319",
+	"cid" : NumberLong("3658682912849946"),
+	"uid" : "1165468137",
+	"uname" : "有顶猫家族"
+}
 {
 	"_id" : ObjectId("52b7d2e60de7deec5cc0f85d"),
 	"text" : "回复@汪soso_临兵斗者皆阵列在前:唔…我也在本校…不过在天津…好远啊感觉",

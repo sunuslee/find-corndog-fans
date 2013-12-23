@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f916"),
+	"text" : "又来报道一下下啦~今天作业交了~心情特别好~~[得意地笑]杭州妹纸~~20~~~YYYYY_YJ",
+	"cid" : NumberLong("3658694581762050"),
+	"uid" : "3836254935",
+	"uname" : "YJEEEEE"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f918"),
+	"text" : "杭州人 男 27",
+	"cid" : NumberLong("3658694548202166"),
+	"uid" : "2679670654",
+	"uname" : "骑全顺的猪"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f942"),
+	"text" : "汉子 杭州 huguandi5809",
+	"cid" : NumberLong("3658691931219958"),
+	"uid" : "1675731082",
+	"uname" : "胡冠迪"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f963"),
+	"text" : "好吧，突然来一发～求个上海本地喜欢游玩的妹子，明天杭州来一朋友，一起带着游魔都的圣诞节…我也不是魔都的在魔都不认路[汗]",
+	"cid" : NumberLong("3658689590538703"),
+	"uid" : "1706337863",
+	"uname" : "看湿傅开地铁的包子"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f967"),
+	"text" : "杭州大二汉子",
+	"cid" : NumberLong("3658689322173645"),
+	"uid" : "3135209153",
+	"uname" : "不吃晚饭怎么可以"
+}
 {
 	"_id" : ObjectId("52b7dbda0de7deec5cc0f8d7"),
 	"text" : "24 妹纸 温州人 现居杭州",

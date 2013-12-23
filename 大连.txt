@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f90b"),
+	"text" : "帝都 175的大连女汉纸一枚 性格时而汉子时而女子 喂 有人吗[泪]",
+	"cid" : NumberLong("3658695357313712"),
+	"uid" : "1131386144",
+	"uname" : "根号三的木木"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f99d"),
+	"text" : "大连吊丝，欢迎私信。22吧。其实我也不知道我多大。",
+	"cid" : NumberLong("3658686700726901"),
+	"uid" : "2171588477",
+	"uname" : "陈岩波吃多了"
+}
 {
 	"_id" : ObjectId("52b7dbda0de7deec5cc0f8da"),
 	"text" : "大连 姑娘 不软妹 外貌协会",

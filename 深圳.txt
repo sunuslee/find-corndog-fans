@@ -1,8 +1,71 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f8fc"),
+	"text" : "噗，凑个热闹，深圳176汉子求软妹抱团圣诞取暖",
+	"cid" : NumberLong("3658697459168496"),
+	"uid" : "1927890461",
+	"uname" : "_浮云在世_"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f902"),
+	"text" : "高个的深圳汉子在哪里！",
+	"cid" : NumberLong("3658696423272088"),
+	"uid" : "1262901765",
+	"uname" : "想要去流浪的某媛"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f92e"),
+	"text" : "深圳男，微xin：闲云夜鹤",
+	"cid" : NumberLong("3658693130723889"),
+	"uid" : "3911057555",
+	"uname" : "憋心螃蟹"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f943"),
+	"text" : "深圳妹子在哪里[泪]",
+	"cid" : NumberLong("3658691825911754"),
+	"uid" : "1736794162",
+	"uname" : "灏仔_"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f96a"),
+	"text" : "深圳 男 25 交友 汉纸妹纸都可以",
+	"cid" : NumberLong("3658689251109735"),
+	"uid" : "1298482411",
+	"uname" : "饭特鑫"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f96b"),
+	"text" : "求个深圳妹子勾搭我呀~深大大四老饼一只，求勾搭",
+	"cid" : NumberLong("3658689250698483"),
+	"uid" : "1836839310",
+	"uname" : "EveNinG-夜"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f97d"),
+	"text" : "深圳的路过",
+	"cid" : NumberLong("3658688244032932"),
+	"uid" : "3137855605",
+	"uname" : "贝西先生"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f98a"),
+	"text" : "[哈哈]凑热闹~~~~肇庆汉子在深圳，23岁，175/120.微信37634129",
+	"cid" : NumberLong("3658687719984478"),
+	"uid" : "1772757080",
+	"uname" : "Benjamin李志斌"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f99f"),
+	"text" : "男，老家湖北洪湖，现在深圳工作[din推撞]",
+	"cid" : NumberLong("3658686591903642"),
+	"uid" : "2376065954",
+	"uname" : "想当饲养员的设计师"
+}
 {
 	"_id" : ObjectId("52b7d2e60de7deec5cc0f818"),
 	"text" : "好高的人气，刷微博的大部分都是单身么，求勾搭，深圳，男",

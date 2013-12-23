@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f91c"),
+	"text" : "长沙，男，不矮，不帅，很穷，ID就是本性。微信号lomo95",
+	"cid" : NumberLong("3658694275528635"),
+	"uid" : "1698228291",
+	"uname" : "一头渣男"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f921"),
+	"text" : "长沙 90  汉子 大四学生党一名 有木有妹子聊聊[泪]",
+	"cid" : NumberLong("3658693989633722"),
+	"uid" : "1829613642",
+	"uname" : "言身寸氵告fighting"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f96e"),
+	"text" : "什么？还有这样的活动！在广州或者过年回长沙的妹子有没有。求勾搭，么么哒",
+	"cid" : NumberLong("3658689103853185"),
+	"uid" : "3190524791",
+	"uname" : "_捉影"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f97a"),
+	"text" : "长沙",
+	"cid" : NumberLong("3658688483176433"),
+	"uid" : "1760387010",
+	"uname" : "JJJJJJJJJJc"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f983"),
+	"text" : "我是来看看评论顺便看下有没有长沙的不论男女…",
+	"cid" : NumberLong("3658688004534067"),
+	"uid" : "2683410154",
+	"uname" : "游游游游游xiao游"
+}
 {
 	"_id" : ObjectId("52b7b72b0de7deec5cc0f7c4"),
 	"text" : "女，２４，长沙，长相一般，微信ｇｕｘｉｊｉｎｇ， 没有人勾搭的话就只能祝福性玉被雷军调戏了，摔～",

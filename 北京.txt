@@ -1,8 +1,71 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f8fa"),
+	"text" : "北京 23岁 摄影爱好者 有愿意被射的吗！",
+	"cid" : NumberLong("3658697551290266"),
+	"uid" : "1668781107",
+	"uname" : "独奏哀伤"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f90c"),
+	"text" : "妹子 22 北京[呵呵]让我看到你们的双手好吗",
+	"cid" : NumberLong("3658695294390997"),
+	"uid" : "1583437582",
+	"uname" : "我叫刘大柱"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f92f"),
+	"text" : "北京、汉子、183cm，求妹子勾搭跨年，有点闷，有点骚，有点帅有点怪，有点幽默有点赖！微信William_zhao123,萌妹子~大叔等你来",
+	"cid" : NumberLong("3658693038263573"),
+	"uid" : "1623824495",
+	"uname" : "我是赵亚军"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f944"),
+	"text" : "球鞋文化推广网站编辑一名，22，185cm，人在山西太原，让我去北京、石家庄也行，经常没事就去转转...只为求个人吃吃饭看看电影唱唱歌...逛街也OK",
+	"cid" : NumberLong("3658691792066005"),
+	"uid" : "2095350007",
+	"uname" : "Xiao23shuaI"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f945"),
+	"text" : "汉子 坐标北京 在太原出差圣诞会在太原，求一起过圣诞 IT男 26",
+	"cid" : NumberLong("3658691746639635"),
+	"uid" : "1770529501",
+	"uname" : "未小艾--于小贱"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f953"),
+	"text" : "坐标：北京朝阳机场",
+	"cid" : NumberLong("3658690936454631"),
+	"uid" : "2104254803",
+	"uname" : "PriestCoCo"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f962"),
+	"text" : "妹子，坐标北京，24，求个男生一起玩耍，如果能帮我把手机越狱就更好了~",
+	"cid" : NumberLong("3658689779075513"),
+	"uid" : "1718222824",
+	"uname" : "大德豆"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f966"),
+	"text" : "求在北京的妹子！微信号2514  72949 普通男人一个，痛恨矫情！",
+	"cid" : NumberLong("3658689326218426"),
+	"uid" : "1605031840",
+	"uname" : "叫这名字的真多"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f9a8"),
+	"text" : "性欲业界良心，重庆汉子在北京，26，微信号：kp2046，求勾搭~~",
+	"cid" : NumberLong("3658683772795741"),
+	"uid" : "1658784932",
+	"uname" : "WestWind_KP"
+}
 {
 	"_id" : ObjectId("52b7d2e50de7deec5cc0f812"),
 	"text" : "回复@三体人皮儿:一南一北啊，， 我高考下一个志愿就是北京的大学",

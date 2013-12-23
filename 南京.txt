@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f91d"),
+	"text" : "江苏 大二 南京野鸡大学混日子。微信 JustGonna_",
+	"cid" : NumberLong("3658694267308455"),
+	"uid" : "1798080605",
+	"uname" : "MusHforGetMe-"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f95e"),
+	"text" : "南京地区不论男女老少人兽鬼畜均可报名 先到先炮[呵呵]微信：flylashes",
+	"cid" : NumberLong("3658690156446584"),
+	"uid" : "1789920853",
+	"uname" : "如果大海能够带走我的奶头"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f97c"),
+	"text" : "南京地区不论男女老少人兽鬼畜",
+	"cid" : NumberLong("3658688344327443"),
+	"uid" : "1789920853",
+	"uname" : "如果大海能够带走我的奶头"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f981"),
+	"text" : "南京  男 170 63。圣诞求妹子",
+	"cid" : NumberLong("3658688147536467"),
+	"uid" : "1644648210",
+	"uname" : "变小的奥利奥"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f985"),
+	"text" : "南京 大一 微信Q565858597",
+	"cid" : NumberLong("3658687958998999"),
+	"uid" : "2548714292",
+	"uname" : "USN_小宝和他一夜的星空"
+}
+{
+	"_id" : ObjectId("52b7ecaf0de7deec5cc0f9a2"),
+	"text" : "南京，找个妹子一起过圣诞，想吃什么我带你去",
+	"cid" : NumberLong("3658686403106545"),
+	"uid" : "1166857910",
+	"uname" : "Duo_Max"
+}
 {
 	"_id" : ObjectId("52b7dbda0de7deec5cc0f8d5"),
 	"text" : "还是留个印记吧，南京，研二，男，91年。",

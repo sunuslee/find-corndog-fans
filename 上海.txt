@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7189
+7391
 1000
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f910"),
+	"text" : "男，上海，微信号Slowly_Face 求调戏",
+	"cid" : NumberLong("3658694942701274"),
+	"uid" : "2303195660",
+	"uname" : "丶性感小番茄"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f911"),
+	"text" : "江苏，男，24，目前在上海，交个朋友吧。",
+	"cid" : NumberLong("3658694904514751"),
+	"uid" : "1986260513",
+	"uname" : "錢澤中"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f931"),
+	"text" : "88年的上海汉子，还算没过赏味期限。寻上下五岁以内妹纸/女士过圣诞，有幸对上电波长期发展也可。自我介绍么。。。不到180，有点小胖，喜欢打球，最近在看的三本小说是《从小李到老李》、《百鬼夜行-阴》、《东周列国志》，最近在听的歌手是ハチ、Dylan和Muddy Waters.总觉得自我介绍很奇怪的样子。",
+	"cid" : NumberLong("3658692870630965"),
+	"uid" : "1145640450",
+	"uname" : "BOBOB_串犬骑士"
+}
+{
+	"_id" : ObjectId("52b7ecae0de7deec5cc0f963"),
+	"text" : "好吧，突然来一发～求个上海本地喜欢游玩的妹子，明天杭州来一朋友，一起带着游魔都的圣诞节…我也不是魔都的在魔都不认路[汗]",
+	"cid" : NumberLong("3658689590538703"),
+	"uid" : "1706337863",
+	"uname" : "看湿傅开地铁的包子"
+}
 {
 	"_id" : ObjectId("52b7dbda0de7deec5cc0f8d4"),
 	"text" : "哈哈每天一发，上海24男，工作日的爱好是饭后散步，周末的爱好是开车兜风，微信huangjianjian_900330，是不是软妹都无所谓哈",
