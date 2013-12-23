@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6605
+6840
 1000
+{
+	"_id" : ObjectId("52b7b2a50de7deec5cc0f6f0"),
+	"text" : "大连 汉 20 微信cristiano_qln9 玩魔兽 求聊天…求软妹",
+	"cid" : NumberLong("3658630999903652"),
+	"uid" : "1826875275",
+	"uname" : "Django_sandman"
+}
+{
+	"_id" : ObjectId("52b7b2a50de7deec5cc0f6fc"),
+	"text" : "男 青岛 大连 不介绍了 可google用户名",
+	"cid" : NumberLong("3658630077209978"),
+	"uid" : "1827675415",
+	"uname" : "氢氧化醋"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f782"),
+	"text" : "南京 大连 广州 武汉 苏州 石家庄 北京 大理 天津 杭州 深圳 长沙 这几个城市的列表~ 在这儿 去拿吧~ http://t.cn/8kTPoW5",
+	"cid" : NumberLong("3658614931887117"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b79c190de7deec5cc0f553"),
 	"text" : "汉子，现居住大连，21岁，在校大学生，身高182，微772927429",

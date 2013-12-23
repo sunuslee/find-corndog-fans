@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6605
+6840
 1000
+{
+	"_id" : ObjectId("52b7b2a50de7deec5cc0f6f8"),
+	"text" : "蓝胖子一枚｀南京｀williamseraph｀看个电影吃个饭，喜欢杰伦老罗科比九把刀。。。",
+	"cid" : NumberLong("3658630308297462"),
+	"uid" : "1695414502",
+	"uname" : "WillSeraph"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f782"),
+	"text" : "南京 大连 广州 武汉 苏州 石家庄 北京 大理 天津 杭州 深圳 长沙 这几个城市的列表~ 在这儿 去拿吧~ http://t.cn/8kTPoW5",
+	"cid" : NumberLong("3658614931887117"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f785"),
+	"text" : "妹子，南京，性格比较安静，爱好吃吃喝喝玩玩，最大乐趣是南京各种美食探店。求能够玩耍或者脱单的小伙伴~",
+	"cid" : NumberLong("3658614662763955"),
+	"uid" : "2833190770",
+	"uname" : "小霜霜的糖好苦"
+}
 {
 	"_id" : ObjectId("52b79c180de7deec5cc0f546"),
 	"text" : "坐标南京，建筑学大五学长，求妹子！最好155到160的[嘻嘻]",

@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6605
+6840
 1000
+{
+	"_id" : ObjectId("52b7b2a30de7deec5cc0f6a3"),
+	"text" : "汉子 深圳 maxthon-zx 不知道该如何介绍 不如让我请你吃饭我们慢慢聊好了",
+	"cid" : NumberLong("3658636507348542"),
+	"uid" : "3659458434",
+	"uname" : "宅总芬奇"
+}
+{
+	"_id" : ObjectId("52b7b2a50de7deec5cc0f6bb"),
+	"text" : "清仓处理啦！[话筒]广东深圳，29道年轮，新晋汉子，求妹子带走，可包邮，可面交，不接关公。链接请戳我名字，可先私信，后微信，再短信……",
+	"cid" : NumberLong("3658635278115097"),
+	"uid" : "1557568100",
+	"uname" : "先飞而已"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f74f"),
+	"text" : "回复@少年卿言:-。-我深圳的，能帮我找个深圳妹子么",
+	"cid" : NumberLong("3658621202277829"),
+	"uid" : "2184182450",
+	"uname" : "iIllustrious"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f782"),
+	"text" : "南京 大连 广州 武汉 苏州 石家庄 北京 大理 天津 杭州 深圳 长沙 这几个城市的列表~ 在这儿 去拿吧~ http://t.cn/8kTPoW5",
+	"cid" : NumberLong("3658614931887117"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b79c190de7deec5cc0f582"),
 	"text" : "求勾搭！！24  汉子  深圳  微信:vincen_lam",

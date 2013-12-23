@@ -1,6 +1,13 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6605
+6840
 1000
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f782"),
+	"text" : "南京 大连 广州 武汉 苏州 石家庄 北京 大理 天津 杭州 深圳 长沙 这几个城市的列表~ 在这儿 去拿吧~ http://t.cn/8kTPoW5",
+	"cid" : NumberLong("3658614931887117"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 bye

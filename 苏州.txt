@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6605
+6840
 1000
+{
+	"_id" : ObjectId("52b7b2a40de7deec5cc0f6a9"),
+	"text" : "汉子，苏州，微信号joeso0，85后，工作奋斗好骚年，喜欢二次元文化，电影党。",
+	"cid" : NumberLong("3658635903633294"),
+	"uid" : "1062225730",
+	"uname" : "Hunter_Joeso"
+}
+{
+	"_id" : ObjectId("52b7b2a50de7deec5cc0f6ef"),
+	"text" : "求苏州软妹搞基233",
+	"cid" : NumberLong("3658631042343366"),
+	"uid" : "1039921327",
+	"uname" : "粥蕴菲是饭爷"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f719"),
+	"text" : "苏州 男 身高177 爱看书 爱篮球 爱看电影 求妹子 微信 d41504303",
+	"cid" : NumberLong("3658628278163190"),
+	"uid" : "2072850051",
+	"uname" : "wrestlemania27"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f782"),
+	"text" : "南京 大连 广州 武汉 苏州 石家庄 北京 大理 天津 杭州 深圳 长沙 这几个城市的列表~ 在这儿 去拿吧~ http://t.cn/8kTPoW5",
+	"cid" : NumberLong("3658614931887117"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b713140de7deec5cc0f3cd"),
 	"text" : "回复@sunusLee:麻烦添加一下 苏州的 谢谢",

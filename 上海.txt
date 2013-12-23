@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6605
+6840
 1000
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f706"),
+	"text" : "男，上海杨浦，共度圣诞喜迎2014[哈哈]",
+	"cid" : NumberLong("3658629448204373"),
+	"uid" : "2156788724",
+	"uname" : "叶飞流_uncle黄"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f721"),
+	"text" : "汉子 上海 外企搬砖工 喜欢山口山 美剧 微信号 andyjiang",
+	"cid" : NumberLong("3658627766623965"),
+	"uid" : "1568130695",
+	"uname" : "我知道名字太长会影响网速"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f725"),
+	"text" : "哈 这么多人了。 23 上海 icemanvvv",
+	"cid" : NumberLong("3658627598333850"),
+	"uid" : "1610631124",
+	"uname" : "iceman不怕冷_"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f765"),
+	"text" : "[衰]昨天才听狂睡说到这个，今天上班来凑热闹，上海，男，养猫wow宅，景观设计师。[偷笑]微信玉米你有的！",
+	"cid" : NumberLong("3658618417291453"),
+	"uid" : "1712817912",
+	"uname" : "皮蛋大魔王"
+}
 {
 	"_id" : ObjectId("52b79c190de7deec5cc0f58d"),
 	"text" : "回复@小慧慧极度挣扎:噗〜真的有妹子回我就已经很开心了，话说你有参加知乎上海的聚会嘛",

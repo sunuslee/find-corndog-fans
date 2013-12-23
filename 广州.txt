@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6605
+6840
 1000
+{
+	"_id" : ObjectId("52b7b2a50de7deec5cc0f6e9"),
+	"text" : "91年的，视频后期的苦逼，有广州的妹子吗.. 微信zweijun",
+	"cid" : NumberLong("3658631524429575"),
+	"uid" : "1857630074",
+	"uname" : "G_Weijun"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f726"),
+	"text" : "广州 男 普通话，粤语都行 在银行 29岁，欢迎私信",
+	"cid" : NumberLong("3658627497646218"),
+	"uid" : "3169967453",
+	"uname" : "IORI_14"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f782"),
+	"text" : "南京 大连 广州 武汉 苏州 石家庄 北京 大理 天津 杭州 深圳 长沙 这几个城市的列表~ 在这儿 去拿吧~ http://t.cn/8kTPoW5",
+	"cid" : NumberLong("3658614931887117"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b79c180de7deec5cc0f518"),
 	"text" : "回复@蕉蕉蕉你妹丶:我在广州呆了7年，今年才回家的- -",

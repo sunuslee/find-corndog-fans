@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6605
+6840
 1000
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f70a"),
+	"text" : "杭州 汉子 25 perfectkoy 简单明了",
+	"cid" : NumberLong("3658629083195623"),
+	"uid" : "1352030830",
+	"uname" : "寻找Cypress"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f732"),
+	"text" : "评论好多，简直花眼…坐标杭州咯…求妹子咯…[可爱]",
+	"cid" : NumberLong("3658625765795741"),
+	"uid" : "1860923064",
+	"uname" : "MonsterJax"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f761"),
+	"text" : "杭州~~~~",
+	"cid" : NumberLong("3658618765776616"),
+	"uid" : "2377241742",
+	"uname" : "无味开水_"
+}
+{
+	"_id" : ObjectId("52b7b2a60de7deec5cc0f782"),
+	"text" : "南京 大连 广州 武汉 苏州 石家庄 北京 大理 天津 杭州 深圳 长沙 这几个城市的列表~ 在这儿 去拿吧~ http://t.cn/8kTPoW5",
+	"cid" : NumberLong("3658614931887117"),
+	"uid" : "1871360692",
+	"uname" : "sunusLee"
+}
 {
 	"_id" : ObjectId("52b79c180de7deec5cc0f540"),
 	"text" : "杭州 男 东北银~ 爱看小说,电商~  征求女汉子做朋友（┬＿┬）",
