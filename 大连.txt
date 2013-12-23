@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-7157
+7189
 1000
+{
+	"_id" : ObjectId("52b7dbda0de7deec5cc0f8da"),
+	"text" : "大连 姑娘 不软妹 外貌协会",
+	"cid" : NumberLong("3658674155139843"),
+	"uid" : "1883614585",
+	"uname" : "虽然没有花哨美衣裳"
+}
 {
 	"_id" : ObjectId("52b7d2e50de7deec5cc0f7f5"),
 	"text" : "大连 男 免费给妹纸拍照片啊啊啊啊啊~~求勾搭啊啊啊~~~ 微信 414494425",
