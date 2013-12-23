@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6904
+6931
 1000
+{
+	"_id" : ObjectId("52b7ba8c0de7deec5cc0f7cf"),
+	"text" : "苏州人在常州 男 [bm可爱]",
+	"cid" : NumberLong("3658644745240698"),
+	"uid" : "1447460553",
+	"uname" : "舞动的呢喃"
+}
+{
+	"_id" : ObjectId("52b7ba8c0de7deec5cc0f7d9"),
+	"text" : "男，苏州，求土著！正在老去的正太一枚，不客气",
+	"cid" : NumberLong("3658643189190384"),
+	"uid" : "1902672427",
+	"uname" : "Uncle酥"
+}
 {
 	"_id" : ObjectId("52b7b2a40de7deec5cc0f6a9"),
 	"text" : "汉子，苏州，微信号joeso0，85后，工作奋斗好骚年，喜欢二次元文化，电影党。",

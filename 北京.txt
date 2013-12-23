@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-6904
+6931
 1000
+{
+	"_id" : ObjectId("52b7ba8c0de7deec5cc0f7da"),
+	"text" : "周六因为粽子才知道你，直觉上以为你是一个性感的女人。有人加我才知道你是屌丝之王，听说还逆袭了女神。回头我@你 你会回复么。24,160，在北京。27+的在北京的男生，稳重点吧。",
+	"cid" : NumberLong("3658643066786195"),
+	"uid" : "3893179473",
+	"uname" : "蘑小绿"
+}
 {
 	"_id" : ObjectId("52b7b2a50de7deec5cc0f6db"),
 	"text" : "闷骚汉子一个 北京 大三 身高180 四肢健全 头脑发达 三观正 五官齐 充满理想主义闷骚气息的好人，善打辅助位置。专注神牧三十年~",
