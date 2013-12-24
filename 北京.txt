@@ -1,8 +1,57 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8197
+8474
 1000
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fce4"),
+	"text" : "非典型性开朗IT男，24，湖南人，现在北京，爱基友，爱美剧，爱料理，爱生活，程序员里面吉他弹得最好的哦，微信号sunyl_",
+	"cid" : NumberLong("3658961406172515"),
+	"uid" : "1967542703",
+	"uname" : "孙大龙Geek"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fcfd"),
+	"text" : "北京 25  汉子 微信skai125",
+	"cid" : NumberLong("3658934281790548"),
+	"uid" : "1864853123",
+	"uname" : "SKAI7"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd02"),
+	"text" : "咳咳 北京 廊坊两地换着跑 19 汉子 大学生 老家贵州 话说我岁数是不是有点小 微信 Jkon_Lee ",
+	"cid" : NumberLong("3658904703836944"),
+	"uid" : "1882233347",
+	"uname" : "JKON_LEE"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd20"),
+	"text" : "北京大二党 男 貌不似19 出生地广东 但是圣诞嘛，还是要在北京过的……微博最近变成负能量集中地所以千万别戳！！！要、要戳先和我说一声嘛有个删的准备……",
+	"cid" : NumberLong("3658836995399186"),
+	"uid" : "1688197833",
+	"uname" : "陈徵宇BALABALA"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd31"),
+	"text" : "北京 男 25，180，it男一枚，微信yypalyer..，求交往妹纸..平安夜快乐[爱你]",
+	"cid" : NumberLong("3658827985191047"),
+	"uid" : "2414274464",
+	"uname" : "Mryang88"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd35"),
+	"text" : "汉子 北京 学生党。。。20 求勾搭",
+	"cid" : NumberLong("3658827423383601"),
+	"uid" : "1879591373",
+	"uname" : "SoLo黑色"
+}
+{
+	"_id" : ObjectId("52b8ece40de7deec5cc0fda4"),
+	"text" : "北京，素质男，178，爱好旅游，看书，音乐，美剧。",
+	"cid" : NumberLong("3658813540203427"),
+	"uid" : "1705209031",
+	"uname" : "睿智的老虎"
+}
 {
 	"_id" : ObjectId("52b84e730de7deec5cc0fca4"),
 	"text" : "汉子，北京，微信号：fengliuleile 求妹子啊",

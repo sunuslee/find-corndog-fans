@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8197
+8474
 1000
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd53"),
+	"text" : "大苏州",
+	"cid" : NumberLong("3658821886808178"),
+	"uid" : "2609328077",
+	"uname" : "Simple_aka丶密斯特袁仙森"
+}
+{
+	"_id" : ObjectId("52b8ece40de7deec5cc0fdcb"),
+	"text" : "就要回苏州的成都研究生。有妹子嘛？",
+	"cid" : NumberLong("3658809975456032"),
+	"uid" : "1887088565",
+	"uname" : "南風_不競"
+}
+{
+	"_id" : ObjectId("52b8ece50de7deec5cc0fdd9"),
+	"text" : "20 苏州，大三，直男",
+	"cid" : NumberLong("3658807681474528"),
+	"uid" : "2483087612",
+	"uname" : "才女橘子先生"
+}
 {
 	"_id" : ObjectId("52b8270e0de7deec5cc0fb67"),
 	"text" : "苏州的。。。",

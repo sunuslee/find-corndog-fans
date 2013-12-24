@@ -1,8 +1,50 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8197
+8474
 1000
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd0e"),
+	"text" : "武汉 妹纸 _(:з)∠)_",
+	"cid" : NumberLong("3658860202553981"),
+	"uid" : "3325917014",
+	"uname" : "喵ku"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd0f"),
+	"text" : "男，武汉，24，刚工作，制造业苦逼男，爱好：摄影，动漫，求软妹子勾搭",
+	"cid" : NumberLong("3658859300724665"),
+	"uid" : "1834584304",
+	"uname" : "我要开始奋斗了cyz"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd13"),
+	"text" : "24岁的学生狗，武汉汉子，求不要一个人过圣诞啊！",
+	"cid" : NumberLong("3658849985035944"),
+	"uid" : "2153858744",
+	"uname" : "Adam梁梁恐怕要走不归路啊"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd39"),
+	"text" : "来混个脸熟...武汉妹纸有木有？？",
+	"cid" : NumberLong("3658826421714253"),
+	"uid" : "1878877581",
+	"uname" : "sunsrise"
+}
+{
+	"_id" : ObjectId("52b8ece40de7deec5cc0fd5e"),
+	"text" : "在玉米发明黑科技之后再来一发，武汉男！19！",
+	"cid" : NumberLong("3658819974301366"),
+	"uid" : "1739868814",
+	"uname" : "王野合"
+}
+{
+	"_id" : ObjectId("52b8ece40de7deec5cc0fda6"),
+	"text" : "24岁在武汉已经算大龄了吗？",
+	"cid" : NumberLong("3658813452666950"),
+	"uid" : "1668962003",
+	"uname" : "bugkang"
+}
 {
 	"_id" : ObjectId("52b84e720de7deec5cc0fc21"),
 	"text" : "凑热闹，坐标 武汉 91 软妹子一枚",

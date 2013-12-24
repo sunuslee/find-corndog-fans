@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8197
+8474
 1000
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd3e"),
+	"text" : "没人找我。。。 >< 男，上海。",
+	"cid" : NumberLong("3658824768660196"),
+	"uid" : "1227985433",
+	"uname" : "天黑要下雨了"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd3f"),
+	"text" : "@这又何必呢-Fiona  大龄上海妹子快来报道",
+	"cid" : NumberLong("3658824395517404"),
+	"uid" : "1933400627",
+	"uname" : "April混个脸熟就好"
+}
+{
+	"_id" : ObjectId("52b8ece40de7deec5cc0fd65"),
+	"text" : "看看上海的妹子",
+	"cid" : NumberLong("3658819127438736"),
+	"uid" : "2833411360",
+	"uname" : "Wilson_Zizi"
+}
+{
+	"_id" : ObjectId("52b8ece40de7deec5cc0fd9a"),
+	"text" : "地标上海徐汇田林，24，广告界...热爱自由，黑莓，twitter，竞技游戏。",
+	"cid" : NumberLong("3658814513087614"),
+	"uid" : "1757009981",
+	"uname" : "fantastic_liu"
+}
+{
+	"_id" : ObjectId("52b8ece40de7deec5cc0fdcd"),
+	"text" : "妹子 上海 今年本命年 兴趣就看看电影 看看小说 听听歌 最近突然意识到交友圈小··有紧迫感",
+	"cid" : NumberLong("3658809573047054"),
+	"uid" : "2002387520",
+	"uname" : "smilesoooda"
+}
 {
 	"_id" : ObjectId("52b84e720de7deec5cc0fc1f"),
 	"text" : "@sophy头上长犄角 上海妹纸，20岁，可御姐可小清新，汉纸们快上吧！",

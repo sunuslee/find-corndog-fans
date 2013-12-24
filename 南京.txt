@@ -1,8 +1,22 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8197
+8474
 1000
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd18"),
+	"text" : "南京，男，23，略胖正在玩命减肥，单机游戏控，玩lol...女性之友，擅长接听情感热线，扮演各种倾听者...",
+	"cid" : NumberLong("3658840459734000"),
+	"uid" : "1898022305",
+	"uname" : "逐着日-玩家国度ROG"
+}
+{
+	"_id" : ObjectId("52b8ece30de7deec5cc0fd29"),
+	"text" : "回复@胡一一11一:[抱抱]南京软妹子多，好好寻觅吧~",
+	"cid" : NumberLong("3658833769550561"),
+	"uid" : "1656221320",
+	"uname" : "草莓三岛"
+}
 {
 	"_id" : ObjectId("52b80ad60de7deec5cc0fa1a"),
 	"text" : "回复@小霜霜的糖好苦:上海FDU的→_→南京朋友多随口一问[挖鼻屎]",

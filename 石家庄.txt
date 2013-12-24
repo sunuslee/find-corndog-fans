@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8197
+8474
 1000
+{
+	"_id" : ObjectId("52b8ece40de7deec5cc0fdc8"),
+	"text" : "石家庄 21[熊猫]",
+	"cid" : NumberLong("3658810260823346"),
+	"uid" : "2632466063",
+	"uname" : "进击的小白白白"
+}
 {
 	"_id" : ObjectId("52b7ecae0de7deec5cc0f944"),
 	"text" : "球鞋文化推广网站编辑一名，22，185cm，人在山西太原，让我去北京、石家庄也行，经常没事就去转转...只为求个人吃吃饭看看电影唱唱歌...逛街也OK",
