@@ -1,8 +1,64 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8474
+8632
 1000
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fdf8"),
+	"text" : "有广州大学的妹子么？[可怜]求过平安夜！",
+	"cid" : NumberLong("3659028440171127"),
+	"uid" : "1789749950",
+	"uname" : "拿着吉他的候鸟"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe02"),
+	"text" : "我也是洛阳的，但是只看到了两个洛阳妹子，可是竟然还有共同好友=。= 简直太小了好么。目前广州苦逼实习中。微信号，zyx_ly",
+	"cid" : NumberLong("3659024903463583"),
+	"uid" : "1789842585",
+	"uname" : "我实在没名字了"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe25"),
+	"text" : "佛山 广州汉纸求勾搭 5D3射影湿 二次元三次元兼容性400% 微信twodoors4poon",
+	"cid" : NumberLong("3658995129069845"),
+	"uid" : "1784093510",
+	"uname" : "WingKo-拍照先生"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe2d"),
+	"text" : "广州25岁好汉子，前来认识妹子，微信号：Glen2030",
+	"cid" : NumberLong("3658993304073305"),
+	"uid" : "1843434490",
+	"uname" : "Glen放哥哥"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe32"),
+	"text" : "24男，广州苦逼医学僧。。。",
+	"cid" : NumberLong("3658992209364847"),
+	"uid" : "1769390225",
+	"uname" : "医儒既往"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe69"),
+	"text" : "一枚经常掉节操的软妹纸。广州读书中。微信。345160238",
+	"cid" : NumberLong("3658980771747156"),
+	"uid" : "1705440834",
+	"uname" : "变异娃_yuyinghonG"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe74"),
+	"text" : "那就玩玩吧，汉子 广州，微信：2658287,就是扣扣啦，单身好多年",
+	"cid" : NumberLong("3658977634297157"),
+	"uid" : "1597167843",
+	"uname" : "教练我叫清水君阿教练"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe81"),
+	"text" : "92汉子一枚，家在广州，身在珠海，海拨166+1，体型略丰满，求个中萌妹御姐女神带走~~~~~~",
+	"cid" : NumberLong("3658975541568391"),
+	"uid" : "1764742580",
+	"uname" : "Freeoliver"
+}
 {
 	"_id" : ObjectId("52b8ece30de7deec5cc0fd0d"),
 	"text" : "广州，性别女爱好男。有点脑残有点二，喜宅也镇宅。微信Yuky-Li   #不要让小伙伴发现我#",

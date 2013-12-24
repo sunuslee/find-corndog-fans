@@ -1,8 +1,43 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8474
+8632
 1000
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe17"),
+	"text" : "北京，是妹子，身高168……体重不重，长得不丑",
+	"cid" : NumberLong("3659002443255650"),
+	"uid" : "3210227724",
+	"uname" : "fabulousGD"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe20"),
+	"text" : "北京  男  进击的程序员",
+	"cid" : NumberLong("3658997242455828"),
+	"uid" : "1703744685",
+	"uname" : "突悟"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe67"),
+	"text" : "北京 21岁 上班狗 最后一天前来碰运气[失望]",
+	"cid" : NumberLong("3658980901531520"),
+	"uid" : "2962843510",
+	"uname" : "CX_文"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe70"),
+	"text" : "北京汉子25，微信号：SatanWrath 175 求脱团",
+	"cid" : NumberLong("3658978662237103"),
+	"uid" : "2338158023",
+	"uname" : "撒撒是萌之煞"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe79"),
+	"text" : "北京汉子25，微信号：SatanWrath，今晚想约一个妹子去看看电影。资深wower，",
+	"cid" : NumberLong("3658976975918804"),
+	"uid" : "2338158023",
+	"uname" : "撒撒是萌之煞"
+}
 {
 	"_id" : ObjectId("52b8ece30de7deec5cc0fce4"),
 	"text" : "非典型性开朗IT男，24，湖南人，现在北京，爱基友，爱美剧，爱料理，爱生活，程序员里面吉他弹得最好的哦，微信号sunyl_",

@@ -1,8 +1,64 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8474
+8632
 1000
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fdfe"),
+	"text" : "深圳22男，最后八小时试一试，微信305904829",
+	"cid" : NumberLong("3659026225344184"),
+	"uid" : "1701093364",
+	"uname" : "锺武杰"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe23"),
+	"text" : "回复@OnlySwan:你不是深圳妹子吗。 干嘛要温哥华呢",
+	"cid" : NumberLong("3658995410137515"),
+	"uid" : "1937124723",
+	"uname" : "阿池ORLE"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe3f"),
+	"text" : "回复@莫小欣是好孩子一枚:深圳宝安[哈哈]",
+	"cid" : NumberLong("3658988593518756"),
+	"uid" : "2450485102",
+	"uname" : "屎夹奥利奥"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe63"),
+	"text" : "[熊猫]温州汉子坐标深圳，我知道肯定么有妹子勾搭的[哈哈]",
+	"cid" : NumberLong("3658981287125943"),
+	"uid" : "2450485102",
+	"uname" : "屎夹奥利奥"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe65"),
+	"text" : "有深圳的妹纸吗",
+	"cid" : NumberLong("3658981149366462"),
+	"uid" : "3911057555",
+	"uname" : "憋心螃蟹"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe72"),
+	"text" : "温州汉子.坐标:深圳[嘻嘻]93.2.22.微信549737648[闭嘴]梦幻西游广东三区罗浮山[害羞]",
+	"cid" : NumberLong("3658977869250483"),
+	"uid" : "2450485102",
+	"uname" : "屎夹奥利奥"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe75"),
+	"text" : "回复@吾孽:深圳 汉子 22 179 甚麼屬性都有 就是不軟",
+	"cid" : NumberLong("3658977626237700"),
+	"uid" : "1749236805",
+	"uname" : "冰火馬殺雞"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe83"),
+	"text" : "男，广东，深圳，觅一软妹过节啊",
+	"cid" : NumberLong("3658974883132283"),
+	"uid" : "1699249864",
+	"uname" : "NaturalGreedy"
+}
 {
 	"_id" : ObjectId("52b8ece30de7deec5cc0fd1d"),
 	"text" : "有深圳的嗎？",

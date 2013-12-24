@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8474
+8632
 1000
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe0b"),
+	"text" : "今天看了一遍@BlueGood 的程序又做了升级，武汉的勾搭妹子版竟然被@少年卿言 疯狂刷屏20页。。。",
+	"cid" : NumberLong("3659013840375084"),
+	"uid" : "2014691355",
+	"uname" : "奥斯维嘉_"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe11"),
+	"text" : "嗨 我是武汉逗比",
+	"cid" : NumberLong("3659010828854047"),
+	"uid" : "3022943055",
+	"uname" : "Burning丶Shy"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe85"),
+	"text" : "最后机会，最后一发了，武汉 射手男25 找个在武汉的软妹子一起过平安夜 [泪] 留Q 1034952580",
+	"cid" : NumberLong("3658974761459539"),
+	"uid" : "2058350464",
+	"uname" : "hi镜子"
+}
 {
 	"_id" : ObjectId("52b8ece30de7deec5cc0fd0e"),
 	"text" : "武汉 妹纸 _(:з)∠)_",

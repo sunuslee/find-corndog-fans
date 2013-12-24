@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8474
+8632
 1000
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe2f"),
+	"text" : "回复@蕉蕉蕉你妹丶: 你不觉得万一... 有天你来长沙... 也许可以...",
+	"cid" : NumberLong("3658992780297525"),
+	"uid" : "2074315237",
+	"uname" : "sunni14"
+}
 {
 	"_id" : ObjectId("52b8ece30de7deec5cc0fd15"),
 	"text" : "在长沙读书实习，女，活，相貌一般身材偏胖，正在穷苦生活求租房中，无不良嗜好，爱美剧爱银魂，可黄暴可安静。够详细了吧，求脱团[泪]",

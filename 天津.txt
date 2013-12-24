@@ -1,8 +1,29 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8474
+8632
 1000
+{
+	"_id" : ObjectId("52b929cb0de7deec5cc0fded"),
+	"text" : "天津 求天蝎男 要年龄相仿 不要二十五六的大叔了可不可以！",
+	"cid" : NumberLong("3659039046793063"),
+	"uid" : "1763878397",
+	"uname" : "太酷炫了"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe16"),
+	"text" : "默默飘最后一次好了 (´∇ﾉ｀*)ノ天津180+的汉纸在哪里～女汉纸可以跟你称兄道弟把酒言欢的噗哈哈",
+	"cid" : NumberLong("3659003122466730"),
+	"uid" : "3696665005",
+	"uname" : "深在那里的猫酱"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe7b"),
+	"text" : "难道天津的妹子真的在哪儿都不活跃么…",
+	"cid" : NumberLong("3658976472390970"),
+	"uid" : "2159341521",
+	"uname" : "XXAa_"
+}
 {
 	"_id" : ObjectId("52b84e720de7deec5cc0fc07"),
 	"text" : "都闪开！让我来解救天津大龄女汉子们！",

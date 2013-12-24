@@ -1,8 +1,15 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8474
+8632
 1000
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe41"),
+	"text" : "是不是一定要写上石家庄汉子才可以",
+	"cid" : NumberLong("3658987729565663"),
+	"uid" : "2139767313",
+	"uname" : "作业壹本"
+}
 {
 	"_id" : ObjectId("52b8ece40de7deec5cc0fdc8"),
 	"text" : "石家庄 21[熊猫]",

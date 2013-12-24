@@ -1,8 +1,36 @@
 MongoDB shell version: 2.4.8
 connecting to: test
 switched to db wbdb
-8474
+8632
 1000
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe2c"),
+	"text" : "上海外环的看来是没戏了~",
+	"cid" : NumberLong("3658993472285192"),
+	"uid" : "2860415587",
+	"uname" : "Dx_理想的"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe57"),
+	"text" : "坐标定位上海[偷笑]性玉这次RP积攒无数了",
+	"cid" : NumberLong("3658982747425453"),
+	"uid" : "2156788724",
+	"uname" : "叶飞流_uncle黄"
+}
+{
+	"_id" : ObjectId("52b929cc0de7deec5cc0fe60"),
+	"text" : "24，男，微信号joeywatt  坐标九江，但是上海，西安，成都，南昌的妹子都可以啊。。。求私信，求勾搭",
+	"cid" : NumberLong("3658981514013081"),
+	"uid" : "1770582970",
+	"uname" : "嘻嘻一定会看到希望"
+}
+{
+	"_id" : ObjectId("52b929cd0de7deec5cc0fe84"),
+	"text" : "性玉大JJ果然业界良心！魔都和上海算是一个关键词吗……",
+	"cid" : NumberLong("3658974828161098"),
+	"uid" : "1571804950",
+	"uname" : "装甲战兔"
+}
 {
 	"_id" : ObjectId("52b8ece30de7deec5cc0fd3e"),
 	"text" : "没人找我。。。 >< 男，上海。",
